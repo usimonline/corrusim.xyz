@@ -11,7 +11,7 @@ $site_qiwi = "142343234343";
 $site_yandex = "243243244343";
 $site_wmr = "R43242343";
 $adres = "Россия, Смоленск, проезд Маршала Конева, 28Е, офис 205";
-$adres_url_yandex = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZgwaWo4\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
+$adres_url_yandex = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZgwaP2f\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
 $price_copy_1 = 95;
 $price_copy_2 = $price_copy_1*1.4;
 $price_copy_3 = $price_copy_1*1.8;
