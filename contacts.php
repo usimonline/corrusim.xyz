@@ -48,7 +48,7 @@
 <p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;|<strong><strong>&nbsp;ИНН</strong> </strong>774315718702&nbsp;|<strong>&nbsp;ОГРНИП</strong> 314774600900611</p>
 
                                     <p style="text-align: center;"><?php echo $adres;?></p>
-                                    <p style="text-align: center;"><iframe src="<?php echo $adres_url_yandex;?>" width="600" height="350" frameborder="0"></iframe></p>
+                                    <p style="text-align: center;"><?php echo $adres_url_yandex;?></p>
 <div class="clear"></div>
 <div class="gdl-divider gdl-border-x top">
 <div class="scroll-top"></div>
