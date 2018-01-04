@@ -3,7 +3,7 @@
 <?php
 $site_url = "http://corr.online/";
 $site_name = "КОРР-ОНЛАЙН";
-$site_email_1 = "info@corr.online";
+$site_email_1 = "onlinecorr@gmail.com";
 $site_phone = "+7 (968) 334-48-47";
 $site_director = "Ольга Витальевна";
 $site_director_2 = "Ольга Витальевна";
