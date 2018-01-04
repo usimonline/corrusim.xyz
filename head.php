@@ -1,12 +1,12 @@
 
 
 <?php
-$site_url = "http://corrusim.xyz/";
-$site_name = "КОРРУСИМ";
-$site_email_1 = "info@corrusim.xyz";
-$site_phone = "+7 (453) 345-34-23";
-$site_director = "Усим О. В.";
-$site_director_2 = "Ольга Витальевна Усим";
+$site_url = "http://corr.online/";
+$site_name = "КОРР-ОНЛАЙН";
+$site_email_1 = "info@corr.online";
+$site_phone = "+7 (968) 334-48-47";
+$site_director = "Ольга Витальевна";
+$site_director_2 = "Ольга Витальевна";
 $site_qiwi = "142343234343";
 $site_yandex = "243243244343";
 $site_wmr = "R43242343";
