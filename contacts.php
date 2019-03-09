@@ -41,11 +41,11 @@
 <div class="clear"></div>
 
 
-                                    <p style="text-align: center;"><?php echo $site_director_2;?> - соучредитель Студии, ее идейный вдохновитель и креативный директор. <br>Главный редактор, талантливый копирайтер и бесподобный организатор.</p>
+                                    <p style="text-align: center;"><?php echo $site_director_2;?> - пишу лучшие новости в рунете почти на любые темы. Биткоин, политика, строительство. <br>Редактор, талантливый копирайтер и бесподобный организатор.</p>
                                     <p style="text-align: center;"><img src="index_files/myface.gif"></p>
                                     <p style="text-align: center;"><a href="https://freelance.ru/Usimov">https://freelance.ru/Usimov</a></p>
 
-<p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;|<strong><strong>&nbsp;ИНН</strong> </strong>774315718702&nbsp;|<strong>&nbsp;ОГРНИП</strong> 314774600900611</p>
+<p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;|<strong><strong>&nbsp;ИНН</strong></p>
 
                                     <p style="text-align: center;"><?php echo $adres;?></p>
                                     <p style="text-align: center;"><?php echo $adres_url_yandex;?></p>
