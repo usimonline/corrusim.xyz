@@ -3,6 +3,4 @@ RewriteBase /
 
 # Return 404
 ErrorDocument 404 /404.php
-
-Redirect 301 /index.php http://usim.online
 DirectoryIndex index.php
