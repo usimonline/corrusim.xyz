@@ -2,8 +2,11 @@
 
     <!-- Get Logo -->
     <div class="logo-wrapper">
-        <h1><a href="index.php"><img src="./index_files/LOGO.png" alt=""></a></h1>			</div>
-    <div class="logo-right-text"><div class="logo-right-text-content"><div id="contactsh" style="padding-top: 60px; display: inline-block;">
+        <h1><a href="index.php"><img src="./index_files/LOGO.png" alt=""></a></h1>
+    </div>
+    <div class="logo-right-text">
+        <div class="logo-right-text-content">
+            <div id="contactsh" style="padding-top: 60px; display: inline-block;">
   <span id="phoneh" style="white-space: nowrap; margin-right: 15px;">
   <img style="vertical-align: middle; height: 22px;" src="./index_files/phone-32x32.png" alt="phone">
   <span style="vertical-align: middle; margin-left: 5px; font-size: 18px; font-weight: bold;"><?php echo $site_phone;?></span>
@@ -12,11 +15,12 @@
   <img style="vertical-align: middle; height: 22px;" src="./index_files/mail-32x32.png" alt="email">
   <span style="vertical-align: middle; margin-left: 5px; font-size: 18px; font-weight: bold;"><?php echo $site_email_1?></span>
   </span>
-            </div><div style="display: block;">
-                <a data-rel="fancybox" href="#ucform" style="color: #121212; display: inline-block; margin-top: 5px; text-align: center; white-space: nowrap;">
-                    <img style="vertical-align: middle; height: 16px;" src="./index_files/calc-32x32.png" alt="calculator-body">
-                    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px; font-weight: bold;">Онлайн-калькулятор</span>
-                </a></div></div></div>
+
+            </div>
+
+          
+        </div>
+    </div>
     <!-- Navigation -->
     <div class="clear"></div>
     <div class="gdl-navigation-wrapper">

@@ -30,7 +30,7 @@
         <div class="container copyright-container">
             <div class="copyright-wrapper">
                 <div class="copyright-left">
-                    © 2014-2016 <?php echo $site_name;?> | ОГРНИП 314774600900611
+                    © 2014-2019 <?php echo $site_name;?> Новости для всех
                 </div>
                 <div class="copyright-right">
                     <a href="yuridicheskim-licam.php">Юридическим лицам</a>|<a href="vacancies.php">Вакансии</a>						</div>
