@@ -30,7 +30,7 @@
     <div class="clear"></div>
     <div class="gdl-navigation-wrapper">
         <div class="responsive-menu-wrapper"><select id="menu-osnovnoe-menyu" class="menu dropdown-menu"><option value="" class="blank">— Main Menu —</option><option class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85 menu-item-depth-0" value="<?php echo $site_url?>" selected="selected">Главная</option>
-                <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65 menu-item-depth-0" value="about.php">О нас</option>
+                <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65 menu-item-depth-0" value="about.php">Пишу новости</option>
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209 menu-item-depth-0" value="services.php">Услуги и цены</option>
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297 menu-item-depth-0" value="portfolio.php">Портфолио</option>
 
