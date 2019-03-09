@@ -1,11 +1,8 @@
 RewriteEngine On
 RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
 Redirect 301 /index.php http://usim.online
 RewriteCond %{HTTP_HOST} ^www\.
 RewriteRule (.*) http://usim.online/$1 [L,R=301]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule .* index.php [L]
 
 DirectoryIndex index.php
