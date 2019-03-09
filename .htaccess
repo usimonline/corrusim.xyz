@@ -1,8 +1,7 @@
 RewriteEngine On
 RewriteBase /
 Redirect 301 /index.php http://usim.online
-RewriteCond %{HTTP_HOST} ^www\.
-RewriteRule (.*) http://usim.online/$1 [L,R=301]
-RewriteRule .* index.php [L]
+RewriteCond %{HTTP_HOST} ^www.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 DirectoryIndex index.php
