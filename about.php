@@ -36,7 +36,7 @@
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;">Пишу лучшие новоси почти на любые темы!</h1>
+                                    <h1 style="text-align: center;">Пишу лучшие новости почти на любые темы!</h1>
 <p>Фрилансер <?php echo $site_director;?> рада предложить вам написание новостей, которые будут написаны без ошибок и простым слогом, доступным любому читателю.</p>
 <p><span style="font-size: 16pt;"><strong><?php echo $site_name;?></strong> – это...</span></p>
 <ul>
