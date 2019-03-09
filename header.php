@@ -18,7 +18,12 @@
 
             </div>
 
-          
+            <div style="display: block;">
+                <a data-rel="fancybox" href="https://freelance.ru/Usimov" style="color: #121212; display: inline-block; margin-top: 5px;  text-align: center; white-space: nowrap;">
+                    <img style="vertical-align: middle; height: 16px;" src="./index_files/calc-32x32.png" alt="calculator-body">
+                    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px; font-weight: bold;">Фрилансер Ольга Усим</span>
+                </a>
+            </div>
         </div>
     </div>
     <!-- Navigation -->
