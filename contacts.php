@@ -45,7 +45,7 @@
                                     <p style="text-align: center;"><img src="index_files/myface.gif"></p>
                                     <p style="text-align: center;"><a href="https://freelance.ru/Usimov">https://freelance.ru/Usimov</a></p>
 
-<p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;|<strong><strong>&nbsp;ИНН</strong></p>
+<p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;</p>
 
                                     <p style="text-align: center;"><?php echo $adres;?></p>
                                     <p style="text-align: center;"><?php echo $adres_url_yandex;?></p>
