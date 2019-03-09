@@ -1,10 +1,9 @@
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_URI} !\.(php|css|js|htc|png|gif|jpeg|jpg|ico)$
 Redirect 301 /index.php http://usim.online
 RewriteCond %{HTTP_HOST} ^www\.
-RewriteRule (.*) https://by-by.info/$1 [L,R=301]
+RewriteRule (.*) http://usim.online/$1 [L,R=301]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule .* index.php [L]
