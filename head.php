@@ -1,10 +1,10 @@
 
 
 <?php
-$site_url = "http://corr.online/";
-$site_name = "КОРР-ОНЛАЙН";
-$site_email_1 = "onlinecorr@gmail.com";
-$site_phone = "+7 (968) 334-48-47";
+$site_url = "http://usim.online/";
+$site_name = "УСИМ-ОНЛАЙН";
+$site_email_1 = "byby.info@gmail.com";
+$site_phone = "contac@by-by.info";
 $site_director = "Ольга Витальевна";
 $site_director_2 = "Ольга Витальевна";
 $site_qiwi = "142343234343";
