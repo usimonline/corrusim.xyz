@@ -1,7 +1,7 @@
 
 
 <?php
-$site_url = "http://usim.online/";
+$site_url = "http://theusim.ru/";
 $site_name = "УСИМ-ОНЛАЙН";
 $site_email_1 = "byby.info@gmail.com";
 $site_phone = "contac@by-by.info";
