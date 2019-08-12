@@ -29,14 +29,17 @@
     <!-- Navigation -->
     <div class="clear"></div>
     <div class="gdl-navigation-wrapper">
-        <div class="responsive-menu-wrapper"><select id="menu-osnovnoe-menyu" class="menu dropdown-menu"><option value="" class="blank">— Main Menu —</option><option class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85 menu-item-depth-0" value="<?php echo $site_url?>" selected="selected">Главная</option>
-                <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65 menu-item-depth-0" value="about.php">Пишу новости</option>
+        <div class="responsive-menu-wrapper"><select id="menu-osnovnoe-menyu" class="menu dropdown-menu">
+                <option value="" class="blank">— Main Menu —</option>
+                <option class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85 menu-item-depth-0" value="<?php echo $site_url?>" selected="selected">Главная</option>
+                <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65 menu-item-depth-0" value="about.php">Творческая мастерская</option>
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209 menu-item-depth-0" value="services.php">Услуги и цены</option>
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297 menu-item-depth-0" value="portfolio.php">Портфолио</option>
 
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64 menu-item-depth-0" value="pay.php">Оплата</option>
                 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 menu-item-depth-0" value="contacts.php">Контакты</option>
-            </select></div><div class="clear"></div><div class="navigation-wrapper"><div id="main-superfish-wrapper" class="menu-wrapper"><ul id="menu-osnovnoe-menyu-1" class="sf-menu sf-js-enabled"><li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85"><a href="index.php">Главная</a></li>
+            </select></div><div class="clear"></div><div class="navigation-wrapper"><div id="main-superfish-wrapper" class="menu-wrapper"><ul id="menu-osnovnoe-menyu-1" class="sf-menu sf-js-enabled">
+                    <li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85"><a href="index.php">Главная</a></li>
                     <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="about.php">Творческая мастерская</a></li>
                     <li id="menu-item-9209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209"><a href="services.php">Услуги и цены</a></li>
                     <li id="menu-item-3297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="portfolio.php">Портфолио</a></li>
