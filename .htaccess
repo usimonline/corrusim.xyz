@@ -1,13 +1,6 @@
 RewriteEngine On
 RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_URI} !\.(php|css|js|htc|png|gif|jpeg|jpg|ico)$
-RewriteCond %{REQUEST_URI} !(.*)/$
-RewriteRule ^(.*[^/])$ $1 [L,R=301]
-Redirect 301 /index.php http://theusim.ru
-RewriteCond %{HTTP_HOST} ^www\.
-RewriteRule (.*) http://theusim.ru/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^www.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
-# Return 404
-ErrorDocument 404 http://theusim.ru/404.php
 DirectoryIndex index.php
