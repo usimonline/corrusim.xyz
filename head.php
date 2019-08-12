@@ -23,7 +23,7 @@ $price_cor_2 = $price_cor_1*1.4;
 $price_cor_3 = $price_cor_1*1.8;
 $find_key = 80;
 ?>
-
+<meta name="yandex-verification" content="25cc30511daae813" />
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
