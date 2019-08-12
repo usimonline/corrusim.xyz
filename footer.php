@@ -30,7 +30,7 @@
         <div class="container copyright-container">
             <div class="copyright-wrapper">
                 <div class="copyright-left">
-                    © 2014-2019 <?php echo $site_name;?> Новости для всех
+                    © 2014-2019 <?php echo $site_name;?> Статьи и новости для сайта и бизнеса
                 </div>
                 <div class="copyright-right">
                     <a href="yuridicheskim-licam.php">Юридическим лицам</a>|<a href="vacancies.php">Вакансии</a>						</div>

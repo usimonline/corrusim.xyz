@@ -4,7 +4,7 @@
 $site_url = "http://theusim.ru/";
 $site_name = "ЗеУсимРу";
 $site_email_1 = "byby.info@gmail.com";
-$site_phone = "contac@by-by.info";
+$site_phone = "contact@by-by.info";
 $site_director = "Ольга Витальевна Усим";
 $site_director_2 = "Ольга Витальевна Усим";
 $site_qiwi = "142343234343";
