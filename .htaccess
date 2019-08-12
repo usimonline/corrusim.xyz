@@ -3,8 +3,10 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} ^www.(.*) [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
+RewriteRule (.*)/$ $1 [L,R=301]
+
 
 
 # Return 404
-ErrorDocument 404 http://theusim.ru/404.php
+ErrorDocument 404 /404.php
 DirectoryIndex index.php
