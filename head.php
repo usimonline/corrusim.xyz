@@ -19,8 +19,8 @@ $price_rew_1 =  100;
 $price_rew_2 = $price_rew_1*1.1;
 $price_rew_3 = $price_rew_1*1.2;
 $price_cor_1 = 50;
-$price_cor_2 = $price_cor_1*1.1;
-$price_cor_3 = $price_cor_1*1.2;
+$price_cor_2 = $price_cor_1*1.3;
+$price_cor_3 = $price_cor_1*1.6;
 $find_key = 80;
 ?>
 <meta name="yandex-verification" content="25cc30511daae813" />
