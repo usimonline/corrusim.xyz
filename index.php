@@ -7,7 +7,7 @@
 <?php
 require("head.php");
 ?>
-    <title>Контент-студия <?php echo $site_name;?></title>
+    <title>Творческая мастерская Ольги Усим создаст качественные тексты для бизнеса</title>
 </head>
 
 
@@ -27,8 +27,17 @@ require("head.php");
 		<div class="content-wrapper container main">			
 	<div id="post-82" class="post-82 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><span style="font-size: 20pt;"><?php echo $site_name?></span> —&nbsp;вдохните жизнь в свой&nbsp;веб-сайт!</h1>
-<p>Решили открыть собственный веб-проект, но не обладаете достаточным багажом знаний, чтобы сделать это самостоятельно? А может быть, вам нужен эффективный&nbsp;контент, который привлечет на сайт постоянный поток пользователей? В таком случае контент-студия <?php echo $site_name;?> рада предложить вам сотрудничество в рамках именно того пакета услуг, который необходим для вашего проекта.</p>
+		<div class="row gdl-page-row-wrapper">
+            <div class="gdl-page-left mb0 twelve columns"><div class="row">
+                    <div class="gdl-page-item mb0 twelve columns">
+                        <div class="row">
+                            <div class="twelve columns mb45">
+                                <div class="gdl-page-content">
+                                    <h1 style="text-align: center;"><span style="font-size: 20pt;">Тексты для бизнеса</span> от Творческой мастерской Ольги Усим</h1>
+<p>Решили открыть собственный веб-проект, но не обладаете достаточным багажом знаний, чтобы сделать это самостоятельно?
+    А может быть, вам нужен эффективный&nbsp;контент, который привлечет на сайт постоянный поток пользователей?
+    В таком случае контент-студия <?php echo $site_name;?> рада предложить вам сотрудничество в рамках именно того пакета услуг,
+    который необходим для вашего проекта.</p>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="copywriting.php"><img class="wp-image-3600 aligncenter" src="./index_files/brightness.png" alt="copywriting" width="30" height="30">Копирайтинг</a></span></p>
 </div>
