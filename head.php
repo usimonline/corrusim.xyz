@@ -12,15 +12,15 @@ $site_yandex = "243243244343";
 $site_wmr = "R43242343";
 $adres = "Россия, Смоленск, проезд Маршала Конева, 28Е, офис 205";
 $adres_url_yandex = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZgweA0N\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
-$price_copy_1 = 95;
-$price_copy_2 = $price_copy_1*1.4;
-$price_copy_3 = $price_copy_1*1.8;
-$price_rew_1 =  80;
-$price_rew_2 = $price_rew_1*1.4;
-$price_rew_3 = $price_rew_1*1.8;
-$price_cor_1 = 40;
-$price_cor_2 = $price_cor_1*1.4;
-$price_cor_3 = $price_cor_1*1.8;
+$price_copy_1 = 300;
+$price_copy_2 = $price_copy_1*1.1;
+$price_copy_3 = $price_copy_1*1.2;
+$price_rew_1 =  100;
+$price_rew_2 = $price_rew_1*1.1;
+$price_rew_3 = $price_rew_1*1.2;
+$price_cor_1 = 50;
+$price_cor_2 = $price_cor_1*1.1;
+$price_cor_3 = $price_cor_1*1.2;
 $find_key = 80;
 ?>
 <meta name="yandex-verification" content="25cc30511daae813" />

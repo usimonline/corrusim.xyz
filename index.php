@@ -8,6 +8,8 @@
 require("head.php");
 ?>
     <title>Творческая мастерская Ольги Усим создаст качественные тексты для бизнеса</title>
+    <meta name="description" content="Ольга Усим создает продающие тексты для бизнеса
+    по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину. Справедливые цены для заказчика." />
 </head>
 
 
@@ -34,10 +36,10 @@ require("head.php");
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
                                     <h1 style="text-align: center;"><span style="font-size: 20pt;">Тексты для бизнеса</span> от Творческой мастерской Ольги Усим</h1>
-<p>Решили открыть собственный веб-проект, но не обладаете достаточным багажом знаний, чтобы сделать это самостоятельно?
-    А может быть, вам нужен эффективный&nbsp;контент, который привлечет на сайт постоянный поток пользователей?
-    В таком случае контент-студия <?php echo $site_name;?> рада предложить вам сотрудничество в рамках именно того пакета услуг,
-    который необходим для вашего проекта.</p>
+<p>Вы хотите открыть свой сайт, вам нужны тексты для бизнеса, однако вы не хотите сочинять их самостоятельно?
+    Опытный писатель Ольга Усим создаст работающий контент для ваших нужд.
+    Творческая мастерская Ольги Усим специализируется на написании статей и новостей по темам строительства,
+    фитнеса, маркетинга, финтеха, IT и биткоина.</p>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="copywriting.php"><img class="wp-image-3600 aligncenter" src="./index_files/brightness.png" alt="copywriting" width="30" height="30">Копирайтинг</a></span></p>
 </div>
@@ -60,15 +62,18 @@ require("head.php");
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="dorabotka-sajta.php"><img class="wp-image-7896 aligncenter" src="./index_files/tools.png" alt="tools" width="30" height="30">Доработка сайта</a></span></p>
 </div>
 <div class="clear"></div>
-<p>Контент имеет определяющее значение для сайта. С его помощью можно привлечь целевую аудиторию, проинформировать её о своей деятельности, продать товары и услуги.&nbsp;Чтобы добиться высоких результатов, очень важно размещать на своем ресурсе только полезный и уникальный контент — он является важнейшим инструментом эффективного продвижения любого сайта.</p>
-<p style="text-align: center;"><strong>СКОЛЬКО СТОИТ КОНТЕНТ ДЛЯ САЙТА?</strong></p>
+<p>Статьи на сайте очень важны для успешного ведения бизнеса.
+    Целевая аудитория обращает внимание на качество текста на официальном портале компании.
+    Чтобы получить высокие конверсии, необходимо добавить на сайт продающий текст.
+    Ольга Усим – работает уже более 10 лет и поможет продвигать ваш сайт.</p>
+<p style="text-align: center;"><strong>СКОЛЬКО СТОЯТ ТЕКСТЫ ДЛЯ САЙТА И БИЗНЕСА?</strong></p>
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Копирайтинг</div>
-<div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -76,7 +81,7 @@ require("head.php");
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Корректура</div>
-<div class="price-tag"><?php echo $price_cor_1;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-tag"><?php echo $price_cor_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -84,7 +89,7 @@ require("head.php");
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Редактура</div>
-<div class="price-tag"><?php echo $price_cor_3;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-tag"><?php echo $price_cor_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -92,9 +97,10 @@ require("head.php");
 <div class="clear"></div>
 </div>
 </div>
-<p style="text-align: center;"><a class="gbutton" href="text-services.php">ЗАКАЗАТЬ ТЕКСТ</a></p>
-<p>Мы абсолютно убеждены в том, что нам повезло, потому что мы имеем редкую возможность заниматься любимым делом, выбрав чудесную профессию. А для вас, уважаемые клиенты, сотрудничество с нами будет, несомненно, правильным тактическим решением для развития бизнеса и придания вашему сайту эффективности.</p>
-<p style="text-align: center;"><strong>Процесс сотрудничества с нами проходит в несколько этапов:</strong></p>
+<p>«Я точно уверена в том, что мне повезло, потому что я имеют редкую возможность заниматься тем, что я люблю.
+    У меня самая лучшая профессия. Вот почему я стараюсь быть полезна всем своим клиентам.
+    Для меня это не сложно, я просто получаю удовольствие», – уверяет Ольга Усим.</p>
+<p style="text-align: center;"><strong>Как мы будем сотрудничать. Необходимые этапы:</strong></p>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><img class="wp-image-7769 aligncenter" src="./index_files/оформление-заказа.png" alt="оформление заказа" width="55" height="55"></p>
 </div>
@@ -135,9 +141,9 @@ require("head.php");
 <p style="text-align: center;"><span style="font-size: 10pt;">6.&nbsp;Выполнение заказа.</span></p>
 </div>
 <div class="clear"></div>
-<p>Политика нашей студии нацелена на то, чтобы каждый клиент имел возможность стать
-    обладателем уникального продукта, поэтому цены удерживаются нами на приемлемом&nbsp;уровне.
-    Мы исповедуем максимальную доступность к качественным услугам и считаем это оптимальным подходом к сотрудничеству.</p>
+<p>Творческая Мастерская Ольги Усим выпускает только уникальные тексты.
+    Наш бизнес основан на том, что клиент получает качественные статьи и новости по справедливой цене.
+    Просто напишите на почту byby.info@gmail.com, если хотите сделать заказ.</p>
 </div></div>
                             <div class="clear"></div></div></div>
                     <div class="clear"></div></div></div>
