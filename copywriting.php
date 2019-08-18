@@ -29,15 +29,14 @@
 	<div class="page-wrapper single-page ">
 		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./copywriting_files/brightness.png" alt="копирайтинг" width="33" height="33">КОПИРАЙТИНГ</h1>
 <p>Вам нужны услуги копирайтера и вы хотите знать, что необходимо для оформления заказа? Вы в нужном месте! Команда <?php echo $site_name;?> рада предложить профессиональные услуги копирайтинга для вашего проекта. На этой странице указана детальная информация о том, как заказать копирайтинг, а также даны ответы на часто возникающие вопросы.</p>
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <h2><img class="" src="./copywriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Копирайтинг: информация об услуге</h2>
 <p>Копирайтинг – это создание авторских оригинальных текстов на заданную тематику.</p>
 <ul class="gdl-toggle-box">
 <li class="">
 <p class="toggle-box-title">Какой вид копирайтинга заказать?</p>
-<div class="toggle-box-content" style="display: none;">
+<div class="toggle-box-content" >
 Мы предлагаем копирайтинг трех видов:<p></p>
-<ul style="list-style-type: disc;">
+<ul>
 <li>информационный поможет донести до посетителей сайта определенные сведения;</li>
 <li>продающий призван мотивировать пользователей к совершению действия (оформление заказа, покупка товара и т.п.);</li>
 <li>креативный удивит потенциальных клиентов необычным подходом к подачи материала.</li>
