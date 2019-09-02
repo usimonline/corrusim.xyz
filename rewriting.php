@@ -29,19 +29,18 @@
 	<div class="page-wrapper single-page ">
 		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./rewriting_files/pencil.png" alt="pencil" width="33" height="33">РЕРАЙТИНГ</h1>
 <p>Вам необходим рерайт текста и вы ищете студию, где можно заказать услуги? Вы попали по адресу! Мы рады предложить вам услуги рерайтинга по доступной цене. Это может быть как простой рерайтинг текста информационной направленности, так и уникализация технических материалов.</p>
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <h2><img class="" src="./rewriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Рерайтинг текста: информация об услуге</h2>
 <p>Рерайтинг – это изложение текста другими словами с целью сделать его уникальным, сохранив при этом основной смысл.</p>
 <ul class="gdl-toggle-box">
-<li class="">
-<p class="toggle-box-title">Чем отличается рерайтинг от копирайтинга?</p>
-<div class="toggle-box-content" style="display: none;">
+<li>
+<p>Чем отличается рерайтинг от копирайтинга?</p>
+<div>
 Главное отличие рерайтинга от копирайтинга – работа с уже существующим текстом, а не создание нового.
 </div>
 </li>
-<li class="">
-<p class="toggle-box-title">Когда целесообразно заказать рерайтинг?</p>
-<div class="toggle-box-content" style="display: none;">
+<li>
+<p>Когда целесообразно заказать рерайтинг?</p>
+<div>
 <ol>
 <li>Если нужно обновить тексты, которые потеряли уникальность.</li>
 <li>Если важно сохранить содержание и структуру текста, не добавляя новую информацию.</li>
@@ -49,9 +48,9 @@
 </ol>
 </div>
 </li>
-<li class="">
-<p class="toggle-box-title">Где применяется рерайтинг текста?</p>
-<div class="toggle-box-content" style="display: none;">
+<li>
+<p>Где применяется рерайтинг текста?</p>
+<div>
 Существует два основных направления, в которых активно применяется глубокий рерайтинг. Во-первых, это, конечно же, СМИ, поскольку одна и та же новость тиражируется на всевозможных ресурсах. Чтобы не нарушать авторские права, копируя материал, необходимо выполнять рерайт новостей, сохраняя основную суть события.<p></p>
 <p>Другое направление – SEO-рерайтинг, который заказывают для сайта с целью его продвижения. В данном случае рерайт статей позволяет получить уникальные материалы с ключевыми запросами, которые будут вписаны красиво и естественно.
 </p>
@@ -131,7 +130,6 @@
 <div class="clear"></div>
 </div>
 </div>
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <p>В прайс-листе указана стоимость рерайта за 1000 символов без пробелов, которая зависит от его вида:</p>
 <div class="shortcode1-3 ">
 <img class="wp-image-7832 aligncenter" src="./rewriting_files/news.png" alt="news" width="55" height="55">

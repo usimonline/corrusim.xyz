@@ -58,7 +58,6 @@
 <div class="clear"></div>
 </div>
 </div>
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <p>Каким бы прекрасным ни получился текст, грамматические, пунктуационные ошибки или опечатки, наверняка, испортят впечатление от него. Но не нужно огорчаться ― это положение может исправить корректура текста.</p>
 <p style="text-align: center;"><strong>Что же включает в себя корректура?</strong></p>
 <table style="border-collapse: collapse; height: 50px; border: 0px !important;" width="700" cellspacing="0" cellpadding="0">

@@ -28,7 +28,6 @@
 	<div class="page-wrapper single-page ">
 		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./dorabotka-sajta_files/tools.png" alt="tools" width="33" height="33">ДОРАБОТКА САЙТА</h1>
 <p>Пользователи считают ваш сайт неудобным, скучным или некрасивым? Пора изменить их мнение, заказав услуги по доработке сайта. Мы гарантируем профессионализм наших сотрудников и кратчайшие сроки выполнения работы. Свяжитесь с нами и узнайте стоимость доработки сайта&nbsp;согласно вашим требованиям.</p>
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <h2><img class="" src="./dorabotka-sajta_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Доработка сайта: информация об услуге</h2>
 <p>Когда необходимо доработать сайт? Во-первых, это могут быть технические причины, связанные с новыми возможностями систем управления. Во-вторых, это маркетинговая составляющая, помогающая подстроиться под изменяющийся бизнес-процесс.</p>
 <p style="text-align: center;"><strong>Что может включать в себя доработка сайта?</strong></p>
@@ -53,9 +52,9 @@
 </div>
 <div class="clear"></div>
 <ul class="gdl-toggle-box">
-<li class="">
-<p class="toggle-box-title">Чем ещё может быть полезна доработка сайта?</p>
-<div class="toggle-box-content" style="display: none;">
+<li>
+<p>Чем ещё может быть полезна доработка сайта?</p>
+<div>
 Для каждой из CMS (система управления содержимым сайта) мы можем предложить индивидуальный набор услуг:<p></p>
 <ul>
 <li><strong>доработка сайта на Joomla</strong><br>

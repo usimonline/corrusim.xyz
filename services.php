@@ -76,14 +76,13 @@
 </tr>
 <tr style="height: 23px;">
 <td style="width: 300px; height: 23px; text-align: center;"><a href="redaktura.php">Редактура текста</a></td>
-<td style="width: 150px; height: 23px; text-align: center;"><?php echo $price_cor_3;?> руб.</td>
+<td style="width: 150px; height: 23px; text-align: center;">от <?php echo $price_cor_3;?> руб.</td>
 <td style="width: 250px; height: 23px; text-align: center;">за 1000 знаков (с пробелами)</td>
 </tr>
 
 </tbody>
 </table>
 
-<p style="text-align: center;"><a class="gbutton" href="#cbform" data-rel="fancybox">Оформить заказ</a></p>
 <p>Если цена услуги указана с приставкой «от», значит, стоимость такой услуги устанавливается после ознакомления с информацией, необходимой для выполнения заказа. Смотрите также <a href="yuridicheskim-licam.html">прайс-лист для юридических лиц</a>.</p>
 <div class="clear"></div>
 <div class="gdl-divider gdl-border-x top">
