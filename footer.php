@@ -17,6 +17,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text" id="text-18">
+                        <div class="textwidget">
+                            <p style="text-align: center;">
+                                <a href="https://by-by.info/">
+                                    <img class="wp-image-7898 aligncenter" src="./index_files/pregunta.png" alt="text" width="25" height="25">Блог
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="four columns gdl-footer-3 mb0"><div class="custom-sidebar widget_text" id="text-19">
                         <div class="textwidget"><p style="text-align: center;">

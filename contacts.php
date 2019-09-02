@@ -36,7 +36,7 @@
 </div>
 <div class="shortcode1-5 last">
 
-<p style="text-align: center;"><a href="#cqform" data-rel="fancybox"><img class="aligncenter wp-image-7898" src="./contacts_files/pregunta.png" alt="pregunta" width="25" height="25">&nbsp;Задать вопрос</a></p>
+<p style="text-align: center;"><a href="https://by-by.info/" data-rel="fancybox"><img class="aligncenter wp-image-7898" src="./contacts_files/pregunta.png" alt="pregunta" width="25" height="25">&nbsp;Блог</a></p>
 </div>
 <div class="clear"></div>
 
