@@ -31,7 +31,7 @@
     <div class="gdl-navigation-wrapper">
         <div class="responsive-menu-wrapper">
             <select id="menu-osnovnoe-menyu" class="menu dropdown-menu" onchange="top.location=this.value">
-                <option class="" value="<?php echo $site_url?>" selected="selected">Главная</option>
+                <option class="" value="index.php" selected="selected">Главная</option>
                 <option class="" value="about.php">Отзывы</option>
                 <option class="" value="services.php">Услуги и цены</option>
                 <option class="" value="portfolio.php">Портфолио</option>
