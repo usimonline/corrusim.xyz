@@ -189,8 +189,8 @@
 </tbody>
 </table>
 <p>Теперь вы знаете, что нужно, чтобы написать статьи на заказ, которые действительно будут работать. Для того чтобы оформить заказ, свяжитесь с нами любым удобным способом: оставив онлайн-заявку, позвонив по указанным телефонам или написав запрос по электронной почте. Уверены, что заказав статьи для сайта и оценив их эффективность, вы будете обращаться к нам снова и снова.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./text-services_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./text-services_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./text-services_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./text-services_files/share.js" charset="utf-8"></script>
 
 
 

@@ -181,8 +181,8 @@
 </tbody>
 </table>
 <p>Мы предлагаем профессиональные услуги рерайтера, гарантируя уникальность, грамотность и читабельность текстов. При минимальных финансовых затратах и сроках вы получите тексты, которые будут соответствовать всем вашим требованиям.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./rewriting_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./rewriting_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./rewriting_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./rewriting_files/share.js" charset="utf-8"></script>
 
 
 

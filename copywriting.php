@@ -187,8 +187,8 @@
 </tbody>
 </table>
 <p style="text-align: center;">Возникли вопросы? Получите бесплатную консультацию по телефону <?php echo $site_phone;?> или по электронной почте <?php echo $site_email_1;?>.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./copywriting_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./copywriting_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./copywriting_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./copywriting_files/share.js" charset="utf-8"></script>
 
 
 

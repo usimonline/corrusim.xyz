@@ -112,8 +112,8 @@
 <h3><img class="" src="./korrektura_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Корректура текста: стоимость и сроки выполнения</h3>
 <p>Узнать стоимость корректуры текста можно в вышерасположенном прайс-листе. Стоит заметить, что&nbsp;цена корректуры текста определяется по числу знаков с пробелами.&nbsp;Сроки выполнения заказа зависят от объема материала&nbsp;и согласовываются с клиентом индивидуально, учитывая его пожелания.</p>
 <p>Профессиональный корректор студии <?php echo $site_name;?> создаст законченный образ любого текста. При особых требованиях или необходимости срочного выполнения заказа стоимость услуг корректора текста рассматривается в индивидуальном порядке. Оставьте онлайн-заявку или позвоните нам по указанным телефонам: мы на связи в любое время.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./korrektura_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./korrektura_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./korrektura_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./korrektura_files/share.js" charset="utf-8"></script>
 
 
         <?php

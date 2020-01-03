@@ -55,40 +55,40 @@
 </div> <!-- body wrapper -->
 </div> <!-- body outer wrapper -->
 
-<script type="text/javascript" src="./index_files/jquery.js(1).Без названия"></script><script type="text/javascript">jQuery(document).ready(function(){});</script>	<script>
+<script type="text/javascript" src="./index_files/jquery.js(1)"></script><script type="text/javascript">jQuery(document).ready(function(){});</script>	<script>
     var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
         dropdowns = getElementsByClassName( 'dropdown-menu' );
     for ( i=0; i<dropdowns.length; i++ )
         dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
 </script>
-<script type="text/javascript" src="./index_files/jquery.form.min.js.Без названия"></script>
+<script type="text/javascript" src="./index_files/jquery.form.min.js"></script>
 <script type="text/javascript">
     /* <![CDATA[ */
     var _wpcf7 = {"loaderUrl":"<?php echo $site_url;?>wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0412\u044b - \u043d\u0435 \u0440\u043e\u0431\u043e\u0442."}},"sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
     /* ]]> */
 </script>
-<script type="text/javascript" src="./index_files/scripts.js.Без названия"></script>
+<script type="text/javascript" src="./index_files/scripts.js"></script>
 <script type="text/javascript">
     /* <![CDATA[ */
     var JQLBSettings = {"fitToScreen":"1","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"1","loopImages":"","resizeCenter":"","marginSize":"0","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"<?php echo $site_url;?>wp-content\/plugins\/wp-lightbox-2\/styles\/images\/ru_RU\/next.gif","jqlb_previous_button_image":"<?php echo $site_url;?>wp-content\/plugins\/wp-lightbox-2\/styles\/images\/ru_RU\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"<?php echo $site_url;?>wp-content\/plugins\/wp-lightbox-2\/styles\/images\/ru_RU\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="./index_files/wp-lightbox-2.min.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/superfish.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/supersub.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/hoverIntent.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/jquery.easing.js.Без названия"></script>
+<script type="text/javascript" src="./index_files/wp-lightbox-2.min.js"></script>
+<script type="text/javascript" src="./index_files/superfish.js"></script>
+<script type="text/javascript" src="./index_files/supersub.js"></script>
+<script type="text/javascript" src="./index_files/hoverIntent.js"></script>
+<script type="text/javascript" src="./index_files/jquery.easing.js"></script>
 <script type="text/javascript">
     /* <![CDATA[ */
     var ATTR = {"enable":"disable","width":"80","height":"45"};
     /* ]]> */
 </script>
-<script type="text/javascript" src="./index_files/jquery.fancybox.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/jquery.fancybox-media.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/jquery.fancybox-thumbs.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/jquery.maskedinput.min.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/gdl-scripts.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/wp-embed.min.js.Без названия"></script>
+<script type="text/javascript" src="./index_files/jquery.fancybox.js"></script>
+<script type="text/javascript" src="./index_files/jquery.fancybox-media.js"></script>
+<script type="text/javascript" src="./index_files/jquery.fancybox-thumbs.js"></script>
+<script type="text/javascript" src="./index_files/jquery.maskedinput.min.js"></script>
+<script type="text/javascript" src="./index_files/gdl-scripts.js"></script>
+<script type="text/javascript" src="./index_files/wp-embed.min.js"></script>
 <!-- UCALC -->
 <div class="fancybox-inline" style="display:none">
     <div id="ucform">

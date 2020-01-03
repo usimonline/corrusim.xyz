@@ -174,8 +174,8 @@
 </tbody>
 </table>
 <p>Команда <?php echo $site_name;?> готова предложить вам профессиональные услуги по наполнению сайта. При этом не имеет значения, на каком движке работает веб-ресурс – мы работаем со многими современными CMS: WordPress, Joomla, 1C-Битрикс, Оpencart, Magento, UMI, Drupal и другими. Узнайте, сколько стоит наполнение сайта конкретно в вашем случае, связавшись с нами по указанным контактам.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./napolnenie-sajta_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./napolnenie-sajta_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./napolnenie-sajta_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./napolnenie-sajta_files/share.js" charset="utf-8"></script>
 
 
 

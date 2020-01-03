@@ -152,8 +152,8 @@
     Вы можете быть уверены в том, что&nbsp;расходы на наши услуги быстро&nbsp;покроются прибылью от новых заказов.</p>
 </div></div></div></div></div>
 
-        <script type="text/javascript" src="./dorabotka-sajta_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./dorabotka-sajta_files/share.js.Без названия" charset="utf-8"></script>
+        <script type="text/javascript" src="./dorabotka-sajta_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./dorabotka-sajta_files/share.js" charset="utf-8"></script>
 
 
         <?php

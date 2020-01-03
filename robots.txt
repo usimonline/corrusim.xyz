@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Host: http://theusim.ru/
+Sitemap: http://theusim.ru/sitemap.xml

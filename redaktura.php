@@ -92,8 +92,8 @@
 <h3><img class="" src="./redaktura_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Редактура текста: стоимость и сроки выполнения</h3>
 <p>Наши редакторы любят тексты, относятся к ним бережно, но строго, а свою работу всегда выполняют на 100% и по срокам, и по качеству. Стоимость редактирования текста в нашей студии <?php echo $price_cor_3;?> руб. за 1000 знаков. Для сложных тематик, к примеру, технических, цена редактуры текста будет выше.</p>
 <p>Сроки выполнения редактуры&nbsp;зависят от объема работы&nbsp;и согласовываются с клиентом индивидуально, учитывая его пожелания. Редакторы нашей студии профессионально работают с любым текстовым материалом. Нам по силам сделать легко читаемым текст даже на самую сложную тему. Оформить заказ можно, связавшись с нами по одному из контактов.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./redaktura_files/es5-shims.min.js.Без названия" charset="utf-8"></script>
-<script type="text/javascript" src="./redaktura_files/share.js.Без названия" charset="utf-8"></script>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./redaktura_files/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./redaktura_files/share.js" charset="utf-8"></script>
 
 
 
