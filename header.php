@@ -48,13 +48,13 @@
         <div class="navigation-wrapper">
             <div id="main-superfish-wrapper" class="menu-wrapper">
                 <ul id="menu-osnovnoe-menyu-1" class="sf-menu sf-js-enabled">
-                    <li  class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-82 current_page_item menu-item-85"><a href="index.php">Главная</a></li>
+                    <li ><a href="index.php">Главная</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="about.php">Отзывы</a></li>
-                    <li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209"><a href="services.php">Услуги и цены</a></li>
-                    <li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="portfolio.php">Портфолио</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209"><a href="services.php">Услуги и цены</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="portfolio.php">Портфолио</a></li>
 
-                    <li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="pay.php">Оплата</a></li>
-                    <li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="contacts.php">Контакты</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="pay.php">Оплата</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="contacts.php">Контакты</a></li>
                 </ul>
             </div>
             <div id="gdl-social-icon" class="social-wrapper">
