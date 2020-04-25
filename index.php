@@ -166,8 +166,8 @@ require("head.php");
                             <div class="clear"></div></div></div>
                     <div class="clear"></div></div></div>
             <div class="clear"></div></div>
-        <script src="./index_files/es5-shims.min.js" charset="utf-8"></script>
-<script src="./index_files/share.js" charset="utf-8"></script>
+        <script src="./index_files/es5-shims.min.js"></script>
+<script src="./index_files/share.js"></script>
 
 <p style="margin: 0 auto;"></p>
 
