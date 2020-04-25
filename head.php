@@ -43,13 +43,13 @@ $find_key = 60;
 
 
 
-<script type="text/javascript" async="" src="./index_files/global_est.js"></script>
+<script async="" src="./index_files/global_est.js"></script>
 <script async="" src="./index_files/analytics.js"></script>
-<script type="text/javascript" async="" src="./index_files/watch.js"></script>
+<script async="" src="./index_files/watch.js"></script>
 
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
-<script src="./index_files/wp-emoji-release.min.js." type="text/javascript"></script>
+<script src="./index_files/wp-emoji-release.min.js." ></script>
 <style type="text/css">
     img.wp-smiley,
     img.emoji {
@@ -73,9 +73,9 @@ $find_key = 60;
 <link rel="stylesheet" id="superfish-css" href="./index_files/superfish.css" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox-css" href="./index_files/fancybox.css" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox-thumbs-css" href="./index_files/jquery.fancybox-thumbs.css" type="text/css" media="all">
-<script type="text/javascript" src="./index_files/jquery.js"></script>
-<script type="text/javascript" src="./index_files/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="./index_files/jquery.fitvids.js"></script>
+<script src="./index_files/jquery.js"></script>
+<script src="./index_files/jquery-migrate.min.js"></script>
+<script src="./index_files/jquery.fitvids.js"></script>
 
 
 <meta name="generator" content="WordPress 4.6.1">
@@ -102,7 +102,7 @@ $find_key = 60;
 <![endif]-->
 
 <link id="uiform-css-global" rel="stylesheet" type="text/css" href="./index_files/global.css" media="all">
-<script type="text/javascript" src="./index_files/all-settings-default.js" charset="utf-8"></script>
+<script src="./index_files/all-settings-default.js" charset="utf-8"></script>
 <link type="text/css" href="./index_files/chat-default.css" rel="stylesheet">
 
 
