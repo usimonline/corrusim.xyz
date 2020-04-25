@@ -633,7 +633,7 @@ div.price-table-wrapper{ margin: 20px 20px 20px; }
 div.price-item-wrapper{ border-style: solid; border-width: 1px; text-align: center; margin-left: -1px; }
 div.price-item-wrapper:first-child{ margin-left: 0px; }
 div.price-item .price-title{ font-size: 20px; padding: 18px 20px; border-bottom-style: solid; border-bottom-width: 1px; }
-div.price-item .price-tag{ font-size: 26px; font-weight: bold; line-height: 1;
+div.price-item .price-tag{ font-size: 26px; font-weight: bold; line-height: 1; padding: 13px 20px;
 	border-width: 1px; border-style: solid; } 
 div.price-item .price-tag .price-suffix{ font-weight: normal;  font-size: 14px; margin-left: 5px; } 
 div.price-item .price-content{ font-size: 16px; padding: 25px 20px 25px; text-align: center; line-height: 1.9;
