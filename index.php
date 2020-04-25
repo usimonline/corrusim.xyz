@@ -35,7 +35,7 @@ require("head.php");
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;"><span style="font-size: 20pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
+                                    <h1 style="text-align: center;"><span style="font-size: 22pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
 <blockquote style="font-size: 18pt;"><span style="color: #005EA4;">Пишу статьи по маркетингу, SEO, SMM, IT, фитнесу, музыке, бизнесу и криптовалютам</span>. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
     <strong>Опыт написания разных по формату материалов</strong>: статей, обзоров, пресс-релизов, новостей, рекламных текстов, постов для социальных сетей.</blockquote>
 <div class="shortcode1-3 ">
@@ -93,7 +93,7 @@ require("head.php");
 <div class="clear"></div>
 </div>
 </div>
-<blockquote style="font-size: 18pt;"><span style="font-size: 20pt;">Опытный контент-менеджер («Битрикс», WordPress, html, css, php, js)</span>.
+<blockquote style="font-size: 16pt;"><span style="font-size: 20pt;">Опытный контент-менеджер («Битрикс», WordPress, html, css, php, js)</span>.
     SMM-специалист + составление семантического ядра. Аналитика сайта: «Яндекс.Метрика» + Webmaster  + Google Analytics.</blockquote>
 <p style="text-align: center;"><strong>Как мы будем сотрудничать. Этапы:</strong></p>
 <div class="shortcode1-3 ">
@@ -137,14 +137,15 @@ require("head.php");
 </div>
 <div class="clear"></div>
 <p style="font-size: 18pt;"><strong>Главный редактор сайтов:</strong></p>
-                                    <p style="font-size: 18pt;">—  https://vostok.fitness/</p>
-                                    <p style="font-size: 18pt;">—  https://by-by.info/</p>
+                                    <p style="font-size: 16pt;">—  https://vostok.fitness/</p>
+                                    <p style="font-size: 16pt;">—  https://by-by.info/</p>
                                     <p style="font-size: 18pt;"><strong>Выпускающий редактор сайтов, «Дзена» и групп во «ВКонтакте»:</strong></p>
                                     <p style="font-size: 18pt;">—  https://sportres.ru/blog/</p>
                                     <p style="font-size: 18pt;">—  https://easyvoice5.ru/</p>
                                     <p style="font-size: 18pt;">—  https://vk.com/otzyvmarketing</p>
                                     <p style="font-size: 18pt;">—  https://vk.com/easyvoice</p>
                                     <p style="font-size: 18pt;">—  https://zen.yandex.ru/id/5d00204b639f3200b1151c05</p>
+                                    <p style="font-size: 18pt;">—  https://zen.yandex.ru/otzyvmarketing</p>
                                     <p style="font-size: 18pt;"><strong>Автор-эксперт сайтов:</strong></p>
                                     <p style="font-size: 18pt;">—  https://otzyvmarketing.ru/author/37534/</p>
                                     <p style="font-size: 18pt;">—  https://www.dirsalona.ru/</p>
