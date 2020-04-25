@@ -7,9 +7,9 @@
 <?php
 require("head.php");
 ?>
-    <title>Копирайтер-маркетолог Ольга Усим создаст качественные тексты для бизнеса</title>
-    <meta name="description" content="Ольга Усим создает продающие тексты для бизнеса
-    по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину. Справедливые цены для заказчика." />
+    <title>Я копирайтер-маркетолог Ольга The Усим: напишу вкусные тексты для сайтов</title>
+    <meta name="description" content="Я копирайтер-маркетолог Ольга The Усим, создаю вкусные тексты для сайтов
+    по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину." />
 </head>
 
 
@@ -35,11 +35,9 @@ require("head.php");
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;"><span style="font-size: 20pt;">Тексты для бизнеса</span> от копирайтера-эксперта Ольги Усим</h1>
-<p>Вы хотите открыть свой сайт, вам нужны тексты для бизнеса, однако вы не хотите сочинять их самостоятельно?
-    Опытный писатель Ольга Усим создаст работающий контент для ваших нужд.
-    Копирайтер-эксперт Ольга Усим специализируется на написании статей и новостей по темам строительства,
-    фитнеса, маркетинга, финтеха, IT и биткоина.</p>
+                                    <h1 style="text-align: center;"><span style="font-size: 20pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
+<blockquote>Пишу статьи по маркетингу, SEO, SMM, IT, фитнесу, музыке, бизнесу и криптовалютам. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
+    Опыт написания разных по формату материалов: статей, обзоров, пресс-релизов, новостей, рекламных текстов, постов для социальных сетей.</blockquote>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="copywriting.php"><img class="wp-image-3600 aligncenter" src="./index_files/brightness.png" alt="copywriting" width="30" height="30">Копирайтинг</a></span></p>
 </div>
@@ -62,11 +60,9 @@ require("head.php");
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="dorabotka-sajta.php"><img class="wp-image-7896 aligncenter" src="./index_files/tools.png" alt="tools" width="30" height="30">Доработка сайта</a></span></p>
 </div>
 <div class="clear"></div>
-<p>Статьи на сайте очень важны для успешного ведения бизнеса.
-    Целевая аудитория обращает внимание на качество текста на официальном портале компании.
-    Чтобы получить высокие конверсии, необходимо добавить на сайт продающий текст.
-    Ольга Усим – работает уже более 10 лет и поможет продвигать ваш сайт.</p>
-<p style="text-align: center;"><strong>СКОЛЬКО СТОЯТ ТЕКСТЫ ДЛЯ САЙТА И БИЗНЕСА?</strong></p>
+<p style="font-size: 18pt;"><strong>Литературный русский язык, по образованию журналист и технарь, автор научных статей (в том числе на английском языке)</strong>.
+    Закончила аспирантуру, курсы маркетинга.</p>
+<p style="text-align: center;"><strong>СКОЛЬКО СТОЯТ ТЕКСТЫ ДЛЯ САЙТА?</strong></p>
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
@@ -97,10 +93,9 @@ require("head.php");
 <div class="clear"></div>
 </div>
 </div>
-<p>«Я точно уверена в том, что мне повезло, потому что я имеют редкую возможность заниматься тем, что я люблю.
-    У меня самая лучшая профессия. Вот почему я стараюсь быть полезна всем своим клиентам.
-    Для меня это не сложно, я просто получаю удовольствие», – уверяет Ольга Усим.</p>
-<p style="text-align: center;"><strong>Как мы будем сотрудничать. Необходимые этапы:</strong></p>
+<blockquote>Опытный контент-менеджер («Битрикс», WordPress, html, css, php, js).
+    SMM-специалист + составление семантического ядра. Аналитика сайта: «Яндекс.Метрика» + Webmaster  + Google Analytics.</blockquote>
+<p style="text-align: center;"><strong>Как мы будем сотрудничать. Этапы:</strong></p>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><img class="wp-image-7769 aligncenter" src="./index_files/оформление-заказа.png" alt="оформление заказа" width="55" height="55"></p>
 </div>
@@ -141,9 +136,30 @@ require("head.php");
 <p style="text-align: center;"><span style="font-size: 10pt;">6.&nbsp;Выполнение заказа.</span></p>
 </div>
 <div class="clear"></div>
-<p>Копирайтер-маркетолог Ольга Усим выпускает только уникальные тексты.
-    Наш бизнес основан на том, что клиент получает качественные статьи и новости по справедливой цене.
-    Просто напишите на почту byby.info@gmail.com, если хотите сделать заказ.</p>
+<p style="font-size: 18pt;"><strong>Главный редактор сайтов:</strong></p>
+                                    <p style="font-size: 18pt;">—  https://vostok.fitness/</p>
+                                    <p style="font-size: 18pt;">Выпускающий редактор сайтов, «Дзена» и групп во «ВКонтакте»:</strong></p>
+                                    <p style="font-size: 18pt;">—  https://sportres.ru/blog/</p>
+                                    <p style="font-size: 18pt;">—  https://easyvoice5.ru/</p>
+                                    <p style="font-size: 18pt;">—  https://vk.com/otzyvmarketing</p>
+                                    <p style="font-size: 18pt;">—  https://vk.com/easyvoice</p>
+                                    <p style="font-size: 18pt;">—  https://zen.yandex.ru/id/5d00204b639f3200b1151c05</p>
+                                    <p style="font-size: 18pt;">Автор-эксперт сайтов:</strong></p>
+                                    <p style="font-size: 18pt;">—  https://otzyvmarketing.ru/author/37534/</p>
+                                    <p style="font-size: 18pt;">—  https://www.dirsalona.ru/</p>
+                                    <p style="font-size: 18pt;">—  https://www.healthwaters.ru/blog/</p>
+                                    <p style="font-size: 18pt;">Ранее работала выпускающим редактором:</strong></p>
+                                    <p style="font-size: 18pt;">—  в информационном агентстве https://muksun.fm/ по ХМАО-Югре;</p>
+                                    <p style="font-size: 18pt;">—  в новостных порталах https://coinmania.com/ (криптовалюты);</p>
+                                    <p style="font-size: 18pt;">—  https://3commas.io/ru/blog/author/usimov (криптовалюты);</p>
+                                    <p style="font-size: 18pt;">—  https://ruekt.ru/ (строительство).</p>
+                                    <p style="font-size: 18pt;">Занимаюсь просвещением граждан, отвечаю на вопросы на ресурсах:</strong></p>
+                                    <p style="font-size: 18pt;">—  https://voprosmarketing.ru/</p>
+                                    <p style="font-size: 18pt;">—  https://yandex.ru/q/org/Otzyvmarketing/</p>
+                                    <p style="font-size: 18pt;">—  https://qna.habr.com/user/Usimov</p>
+
+
+
 </div></div>
                             <div class="clear"></div></div></div>
                     <div class="clear"></div></div></div>
