@@ -137,28 +137,28 @@ require("head.php");
 </div>
 <div class="clear"></div>
 <p style="font-size: 18pt;"><strong>Главный редактор сайтов:</strong></p>
-                                    <p style="font-size: 16pt;">—  https://vostok.fitness/</p>
-                                    <p style="font-size: 16pt;">—  https://by-by.info/</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://vostok.fitness/" target="_blank">https://vostok.fitness/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://by-by.info/" target="_blank">https://by-by.info/</a></p>
                                     <p style="font-size: 18pt;"><strong>Выпускающий редактор сайтов, «Дзена» и групп во «ВКонтакте»:</strong></p>
-                                    <p style="font-size: 18pt;">—  https://sportres.ru/blog/</p>
-                                    <p style="font-size: 18pt;">—  https://easyvoice5.ru/</p>
-                                    <p style="font-size: 18pt;">—  https://vk.com/otzyvmarketing</p>
-                                    <p style="font-size: 18pt;">—  https://vk.com/easyvoice</p>
-                                    <p style="font-size: 18pt;">—  https://zen.yandex.ru/id/5d00204b639f3200b1151c05</p>
-                                    <p style="font-size: 18pt;">—  https://zen.yandex.ru/otzyvmarketing</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://sportres.ru/blog/" target="_blank">https://sportres.ru/blog/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://easyvoice5.ru/" target="_blank">https://easyvoice5.ru/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://vk.com/otzyvmarketing" target="_blank">https://vk.com/otzyvmarketing</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://vk.com/easyvoice" target="_blank">https://vk.com/easyvoice</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/id/5d00204b639f3200b1151c05" target="_blank">https://zen.yandex.ru/id/5d00204b639f3200b1151c05</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/otzyvmarketing<" target="_blank">https://zen.yandex.ru/otzyvmarketing</a></p>
                                     <p style="font-size: 18pt;"><strong>Автор-эксперт сайтов:</strong></p>
-                                    <p style="font-size: 18pt;">—  https://otzyvmarketing.ru/author/37534/</p>
-                                    <p style="font-size: 18pt;">—  https://www.dirsalona.ru/</p>
-                                    <p style="font-size: 18pt;">—  https://www.healthwaters.ru/blog/</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://otzyvmarketing.ru/author/37534/" target="_blank">https://otzyvmarketing.ru/author/37534/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://www.dirsalona.ru/" target="_blank">https://www.dirsalona.ru/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://www.healthwaters.ru/blog/" target="_blank">https://www.healthwaters.ru/blog/</a></p>
                                     <p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
-                                    <p style="font-size: 18pt;">—  в информационном агентстве https://muksun.fm/ по ХМАО-Югре;</p>
-                                    <p style="font-size: 18pt;">—  в новостных порталах https://coinmania.com/ (криптовалюты);</p>
-                                    <p style="font-size: 18pt;">—  https://3commas.io/ru/blog/author/usimov (криптовалюты);</p>
-                                    <p style="font-size: 18pt;">—  https://ruekt.ru/ (строительство).</p>
+                                    <p style="font-size: 14pt;">—  в информационном агентстве <a href="https://muksun.fm/" target="_blank">https://muksun.fm/</a> по ХМАО-Югре;</p>
+                                    <p style="font-size: 14pt;">—  в новостных порталах <a href="https://coinmania.com/" target="_blank">https://coinmania.com/</a> (криптовалюты);</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://3commas.io/ru/blog/author/usimov" target="_blank">https://3commas.io/ru/blog/author/usimov</a> (криптовалюты);</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://ruekt.ru/" target="_blank">https://ruekt.ru/</a> (строительство).</p>
                                     <p style="font-size: 18pt;"><strong>Занимаюсь просвещением граждан, отвечаю на вопросы на ресурсах:</strong></p>
-                                    <p style="font-size: 18pt;">—  https://voprosmarketing.ru/</p>
-                                    <p style="font-size: 18pt;">—  https://yandex.ru/q/org/Otzyvmarketing/</p>
-                                    <p style="font-size: 18pt;">—  https://qna.habr.com/user/Usimov</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://voprosmarketing.ru/" target="_blank">https://voprosmarketing.ru/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://yandex.ru/q/org/Otzyvmarketing/" target="_blank">https://yandex.ru/q/org/Otzyvmarketing/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://qna.habr.com/user/Usimov" target="_blank">https://qna.habr.com/user/Usimov</a></p>
 
 
 
