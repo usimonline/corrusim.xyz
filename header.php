@@ -2,7 +2,7 @@
 
     <!-- Get Logo -->
     <div class="logo-wrapper">
-        <h1><a href="index.php"><img src="./index_files/LOGO.png" alt=""></a></h1>
+        <a href="index.php"><img src="./index_files/LOGO.png" alt=""></a>
     </div>
     <div class="logo-right-text">
         <div class="logo-right-text-content">
