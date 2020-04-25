@@ -50,7 +50,7 @@ $find_key = 60;
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
 <script src="./index_files/wp-emoji-release.min.js." ></script>
-<style type="text/css">
+<style>
     img.wp-smiley,
     img.emoji {
         display: inline !important;
@@ -102,7 +102,7 @@ $find_key = 60;
 <![endif]-->
 
 <link id="uiform-css-global" rel="stylesheet" type="text/css" href="./index_files/global.css" media="all">
-<script src="./index_files/all-settings-default.js" charset="utf-8"></script>
+<script src="./index_files/all-settings-default.js"></script>
 <link type="text/css" href="./index_files/chat-default.css" rel="stylesheet">
 
 
