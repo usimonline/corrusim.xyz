@@ -70,7 +70,7 @@ require("head.php");
 <div class="price-item" style="height: 50px;">
 <div class="price-title">Копирайтинг</div>
 <div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
-<div class="price-content"></div>
+<div class="price-content" style="height: 10px;"></div>
 <div class="clear"></div>
 </div>
 </div>
