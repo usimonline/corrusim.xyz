@@ -35,7 +35,7 @@ require("head.php");
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;"><span style="font-size: 22pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
+                                    <h1 style="text-align: center;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
 <blockquote style="font-size: 18pt;"><span style="color: #005EA4;">Пишу статьи по маркетингу, SEO, SMM, IT, фитнесу, музыке, бизнесу и криптовалютам</span>. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
     <strong>Опыт написания разных по формату материалов</strong>: статей, обзоров, пресс-релизов, новостей, рекламных текстов, постов для социальных сетей.</blockquote>
 <div class="shortcode1-3 ">
