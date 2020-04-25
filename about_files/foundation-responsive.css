@@ -293,7 +293,7 @@ body .uiform-wrap {
 	/*--- page item ---*/
 	div.gdl-blog-medium .blog-media-wrapper { margin-right: 0px; width: 100%; float: none; }
 	div.gdl-blog-medium .blog-context-wrapper { overflow: hidden; }
-	div.price-item{ margin-bottom: 20px; }
+	div.price-item{ margin-bottom: 0px; }
 	
 	div.stunning-text-wrapper .stunning-text-inner-wrapper { padding: 26px 25px !important; }
 	div.stunning-text-wrapper .stunning-text-button { position: relative; top: auto; 
