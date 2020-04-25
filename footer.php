@@ -17,7 +17,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text" id="text-18">
+                <div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text">
                         <div class="textwidget">
                             <p style="text-align: center;">
                                 <a href="https://by-by.info/">
