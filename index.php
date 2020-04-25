@@ -66,7 +66,7 @@ require("head.php");
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
-
+<div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Копирайтинг</div>
 <div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
@@ -74,7 +74,7 @@ require("head.php");
 <div class="clear"></div>
 </div>
 </div>
-
+<div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Корректура</div>
 <div class="price-tag"><?php echo $price_cor_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
@@ -82,7 +82,7 @@ require("head.php");
 <div class="clear"></div>
 </div>
 </div>
-
+<div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
 <div class="price-title">Редактура</div>
 <div class="price-tag"><?php echo $price_cor_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
