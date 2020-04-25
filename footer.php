@@ -21,7 +21,7 @@
                         <div class="textwidget">
                             <p style="text-align: center;">
                                 <a href="https://by-by.info/">
-                                    <img class="wp-image-7898 aligncenter" src="./index_files/pregunta.png" alt="text" width="25" height="25">Блог
+                                    <img class="wp-image-7898 aligncenter" src="./index_files/pregunta.png" alt="text" width="25" height="25">Мой сайт
                                 </a>
                             </p>
                         </div>
@@ -43,10 +43,9 @@
         <div class="container copyright-container">
             <div class="copyright-wrapper">
                 <div class="copyright-left">
-                    © 2010-2020 Копирайтер-маркетолог Ольга Усим | Статьи и новости для сайта и бизнеса
+                    © 2010-2020 Копирайтер-маркетолог Ольга The Усим | Статьи и новости для сайта и бизнеса
                 </div>
-                <div class="copyright-right">
-                    <a href="yuridicheskim-licam.php">Юридическим лицам</a>|<a href="vacancies.php">Вакансии</a>						</div>
+               
                 <div class="clear"></div>
             </div>
         </div>
