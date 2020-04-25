@@ -35,7 +35,7 @@ require("head.php");
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
+                                    <h1 style="text-align: center; font-size: 22pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h1>
 <blockquote style="font-size: 18pt;"><span style="color: #005EA4;">Пишу статьи по маркетингу, SEO, SMM, IT, фитнесу, музыке, бизнесу и криптовалютам</span>. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
     <strong>Опыт написания разных по формату материалов</strong>: статей, обзоров, пресс-релизов, новостей, рекламных текстов, постов для социальных сетей.</blockquote>
 <div class="shortcode1-3 ">
@@ -148,8 +148,8 @@ require("head.php");
                                     <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/otzyvmarketing" target="_blank">zen.yandex.ru/otzyvmarketing</a></p>
                                     <p style="font-size: 18pt;"><strong>Автор-эксперт сайтов:</strong></p>
                                     <p style="font-size: 14pt;">—  <a href="https://otzyvmarketing.ru/author/37534/" target="_blank">otzyvmarketing.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://www.dirsalona.ru/" target="_blank">dirsalona.ru/</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://www.healthwaters.ru/blog/" target="_blank">healthwaters.ru/blog/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://www.dirsalona.ru/" target="_blank">dirsalona.ru</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://www.healthwaters.ru/blog/" target="_blank">healthwaters.ru/blog</a></p>
                                     <p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
                                     <p style="font-size: 14pt;">—  в информационном агентстве <a href="https://muksun.fm/" target="_blank">muksun.fm</a> по ХМАО-Югре;</p>
                                     <p style="font-size: 14pt;">—  в новостных порталах <a href="https://coinmania.com/" target="_blank">coinmania.com</a> (криптовалюты);</p>
