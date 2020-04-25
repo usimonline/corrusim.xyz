@@ -140,8 +140,8 @@ require("head.php");
                                     <p style="font-size: 14pt;">—  <a href="https://vostok.fitness/" target="_blank">vostok.fitness</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://by-by.info/" target="_blank">by-by.info</a></p>
                                     <p style="font-size: 18pt;"><strong>Выпускающий редактор сайтов, «Дзена» и групп во «ВКонтакте»:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://sportres.ru/blog/" target="_blank">sportres.ru/blog/</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://easyvoice5.ru/" target="_blank">easyvoice5.ru/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://sportres.ru/blog/" target="_blank">sportres.ru/blog</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://easyvoice5.ru/" target="_blank">easyvoice5.ru</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://vk.com/otzyvmarketing" target="_blank">vk.com/otzyvmarketing</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://vk.com/easyvoice" target="_blank">vk.com/easyvoice</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/id/5d00204b639f3200b1151c05" target="_blank">Дзен школы "Петь Легко"</a></p>
@@ -153,11 +153,11 @@ require("head.php");
                                     <p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
                                     <p style="font-size: 14pt;">—  в информационном агентстве <a href="https://muksun.fm/" target="_blank">muksun.fm</a> по ХМАО-Югре;</p>
                                     <p style="font-size: 14pt;">—  в новостных порталах <a href="https://coinmania.com/" target="_blank">coinmania.com</a> (криптовалюты);</p>
-                                    <p style="font-size: 14pt;">—  <a href="https://3commas.io/ru/blog/author/usimov" target="_blank">3commas.io/ru/blog/author/usimov</a> (криптовалюты);</p>
+                                    <p style="font-size: 14pt;">—  <a href="https://3commas.io/ru/blog/author/usimov" target="_blank">3commas.io</a> (криптовалюты);</p>
                                     <p style="font-size: 14pt;">—  <a href="https://ruekt.ru/" target="_blank">ruekt.ru</a> (строительство).</p>
                                     <p style="font-size: 18pt;"><strong>Занимаюсь просвещением граждан, отвечаю на вопросы на ресурсах:</strong></p>
                                     <p style="font-size: 14pt;">—  <a href="https://voprosmarketing.ru/" target="_blank">voprosmarketing.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://yandex.ru/q/org/Otzyvmarketing/" target="_blank">hyandex.ru/q/org/Otzyvmarketing</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://yandex.ru/q/org/Otzyvmarketing/" target="_blank">"Яндекс.Кью"</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://qna.habr.com/user/Usimov" target="_blank">qna.habr.com/user/Usimov</a></p>
 
 
