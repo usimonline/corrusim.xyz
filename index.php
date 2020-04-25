@@ -147,7 +147,7 @@ require("head.php");
                                     <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/id/5d00204b639f3200b1151c05" target="_blank">Дзен школы "Петь Легко"</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/otzyvmarketing" target="_blank">zen.yandex.ru/otzyvmarketing</a></p>
                                     <p style="font-size: 18pt;"><strong>Автор-эксперт сайтов:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://otzyvmarketing.ru/author/37534/" target="_blank">otzyvmarketing.ru/author/37534/</a></p>
+                                    <p style="font-size: 14pt;">—  <a href="https://otzyvmarketing.ru/author/37534/" target="_blank">otzyvmarketing.ru</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://www.dirsalona.ru/" target="_blank">dirsalona.ru/</a></p>
                                     <p style="font-size: 14pt;">—  <a href="https://www.healthwaters.ru/blog/" target="_blank">healthwaters.ru/blog/</a></p>
                                     <p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
