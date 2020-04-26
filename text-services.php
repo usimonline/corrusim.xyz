@@ -229,8 +229,8 @@
             телеграму или написав запрос по электронной почте</span></strong>.
     Уверена, что заказав статьи для сайта и оценив их эффективность, вы будете обращаться ко мне снова и снова.</p>
 </div></div><div class="clear"></div></div></div><div class="clear"></div></div>
-            </div><div class="clear"></div></div><script type="text/javascript" src="./text-services_files/es5-shims.min.js" charset="utf-8"></script>
-<script type="text/javascript" src="./text-services_files/share.js" charset="utf-8"></script>
+            </div><div class="clear"></div></div><script src="./text-services_files/es5-shims.min.js"></script>
+<script src="./text-services_files/share.js"></script>
 
 
 
