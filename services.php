@@ -110,7 +110,6 @@
 
                     </div> <!-- page wrapper -->
                 </div> <!-- post class -->
-            </div> <!-- content wrapper -->
 
 
             <?php
