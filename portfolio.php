@@ -301,15 +301,12 @@
                                     ?>
 
                                     <div class="clear"></div>
-                                </div></div>
+
 
                             <div class="clear"></div>
-                        </div>
 
 
-                    </div> <!-- page wrapper -->
-                </div> <!-- post class -->
-            </div> <!-- content wrapper -->
+
 
 
             <?php
