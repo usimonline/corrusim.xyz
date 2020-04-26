@@ -100,7 +100,7 @@
                                     <?php
                                     require("foot.php");
                                     ?>
-                                    </div></div></div>
+
 
                                     <div class="clear"></div>
                                 </div></div>
@@ -117,6 +117,6 @@
             <?php
             require("footer.php");
             ?>
-
+        </div></div></div>
 </body>
 </html>
