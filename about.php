@@ -37,9 +37,21 @@
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center;">Отзывы</h1>
-<p>Копирайтер-маркетолог <?php echo $site_director;?> специализируется на написании глубоких и понятных статей для
-    сайтов по интернет-маркетингу, SEO, SMM, программированию, строительству, фитнесу, блокчейну и биткоину.</p>
+                                    <h1 style="text-align: center; font-size: 22pt;">Отзывы</h1>
+
+                                    <h2 style="text-align: center; font-size: 18pt;">Отзыв главного редактора портала otzyvmarketing.ru:</h2>
+<blockquote style="font-size: 18pt;"><span style="color: #005EA4;">"Очень удобно с вами работать. За вами не нужно ничего редактировать. Вы сдаете отличные тексты и вовремя.
+    Работаем с вами уже больше года - и всем довольны."</blockquote>
+ <p style="font-size: 16pt;">Я работаю автором-экспертом портала otzyvmarketing.ru больше года. Пишу статьи от 7 тыс. знаков без пробелов, отвечаю на вопросы
+ на "Яндекс.Кью", "Хабр" и "Пикабу".</p>
+ <h3 style="font-size: 18pt;">Достижения:</h3>
+<ul style="font-size: 16pt;">
+    <li>рост трафика сайта на 16%;</li>
+    <li>сайт otzyvmarketing.ru поднялся на первое место в рейтинге "Яндекс.Кью" в рубрике "Маркетинг".</li>
+</ul>
+
+
+
 <p><span style="font-size: 16pt;"><strong>Написание текстов для сайтов</strong> – это...</span></p>
 <ul>
 <li><span style="text-decoration: underline;">Услуга от специалиста своего дела, который разбирается в том, что делает.</span></li>
