@@ -15,7 +15,7 @@ $adres_url_yandex = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZgweA0
 $price_copy_1 = 300;
 $price_copy_2 = $price_copy_1*1.1;
 $price_copy_3 = $price_copy_1*1.2;
-$price_rew_1 =  300;
+$price_rew_1 =  200;
 $price_rew_2 = $price_rew_1*1.1;
 $price_rew_3 = $price_rew_1*1.2;
 $price_cor_1 = 50;

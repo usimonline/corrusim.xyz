@@ -8,6 +8,7 @@
     require("head.php");
     ?>
     <title>Копирайтинг</title>
+    <meta name="description" content="Копирайтинг специалиста Ольги The Усим. Экспертные тексты по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину." />
 </head>
 
 
