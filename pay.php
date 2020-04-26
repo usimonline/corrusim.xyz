@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Оплата | <?php echo $site_name;?></title>
+    <title>Оплата</title>
+    <meta name="description" content="Оплата за работу копирайтера Ольги The Усим. Связывайтесь по скайпу, почте и телеграму." />
 </head>
 
 
