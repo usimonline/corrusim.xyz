@@ -49,7 +49,7 @@
                                     <p style="text-align: center; font-size: 18pt;"><strong>Пишу вкусные тексты по маркетингу, SEO, SMM, IT, фитнесу,
                                             музыке, бизнесу и криптовалютам</strong>.</p>
                                     <p style="text-align: center; font-size: 18pt;"><span style="color: #005EA4;">Гарантирую уникальность текстов
-                                            в 100% по text.ru. Современный экспертный LSI- и SEO-копирайтинг</span>.</p>
+                                            100% по text.ru. Современный экспертный LSI- и SEO-копирайтинг</span>.</p>
                                     <p style="text-align: center;"><img src="index_files/myface.gif" alt="Копирайтер Ольга Усим"></p>
                                     <p style="text-align: center;"><a href="https://freelance.ru/Usimov">https://freelance.ru/Usimov</a></p>
                                     <p style="text-align: center;"><a href="https://www.weblancer.net/users/byby_info/">https://www.weblancer.net/users/byby_info/</a></p>
