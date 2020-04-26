@@ -35,7 +35,8 @@
     <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;"><?php echo $site_phone;?></span></strong></p>
 </div>
 <div class="shortcode2-5 ">
-<p style="text-align: center;"><strong><span style="font-size: 18pt;"><?php echo $site_email_1;?></span></strong></p>
+<p style="text-align: center;"><strong>Почта:</strong></p>
+    <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;"><?php echo $site_email_1;?></span></strong></p>
 </div>
 <div class="shortcode1-5 last">
     <p style="text-align: center;"><strong>Телеграм:</strong></p>
