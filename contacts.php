@@ -31,13 +31,15 @@
 		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row">
                     <div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><p>&nbsp;</p>
 <div class="shortcode2-5 ">
-<p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;">Скайп: <?php echo $site_phone;?></span></strong></p>
+<p style="text-align: center;"><strong>Скайп:</strong></p>
+    <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;"><?php echo $site_phone;?></span></strong></p>
 </div>
 <div class="shortcode2-5 ">
 <p style="text-align: center;"><strong><span style="font-size: 18pt;"><?php echo $site_email_1;?></span></strong></p>
 </div>
 <div class="shortcode1-5 last">
-    <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;">Телеграм: @byby_info</span></strong></p>
+    <p style="text-align: center;"><strong>Телеграм:</strong></p>
+    <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;">@byby_info</span></strong></p>
 </div>
 <div class="clear"></div>
 
