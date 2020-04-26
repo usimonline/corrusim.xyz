@@ -241,7 +241,7 @@
 
         <div class="clear">
         </div>
-        
+
     </div>
     </div>
 
@@ -249,9 +249,7 @@
         </div>
 
 
-        </div> <!-- page wrapper -->
-        </div> <!-- post class -->
-        </div> <!-- content wrapper -->
+        </div>
 
 
         <?php
