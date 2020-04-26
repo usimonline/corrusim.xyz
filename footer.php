@@ -10,8 +10,8 @@
                 <div class="four columns gdl-footer-1 mb0"><div class="custom-sidebar widget_text" id="text-18">
                         <div class="textwidget">
                             <p style="text-align: center;">
-                                <a href="text-services.php">
-                                    <img class="wp-image-7898 aligncenter" src="./index_files/correction.png" alt="text" width="25" height="25">Заказать текст
+                                <a href="pay.php">
+                                    <img class="wp-image-7898 aligncenter" src="./index_files/correction.png" alt="text" width="25" height="25">Оплата
                                 </a>
                             </p>
                         </div>
