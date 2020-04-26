@@ -311,7 +311,7 @@
                 </div> <!-- post class -->
             </div> <!-- content wrapper -->
 
-
+<div>
             <?php
             require("footer.php");
             ?>
