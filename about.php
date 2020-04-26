@@ -46,8 +46,8 @@
  на "Яндекс.Кью", "Хабр" и "Пикабу".</p>
  <h3 style="font-size: 18pt;">Достижения:</h3>
 <ul>
-    <li><span style="font-size: 16pt;">рост трафика сайта на 16%;</span></li>
-    <li><span style="font-size: 16pt;">сайт otzyvmarketing.ru поднялся на первое место в рейтинге "Яндекс.Кью" в рубрике "Маркетинг".</span></li>
+    <li><span style="font-size: 14pt;">рост трафика сайта на 16%;</span></li>
+    <li><span style="font-size: 14pt;">сайт otzyvmarketing.ru поднялся на первое место в рейтинге "Яндекс.Кью" в рубрике "Маркетинг".</span></li>
 </ul>
                                     <h2 style="text-align: center; font-size: 18pt;">Отзыв главного редактора сайта dirsalona.ru:</h2>
                                     <blockquote style="font-size: 18pt;"><span style="color: #005EA4;">"Ольга, вы даете отличные материалы. Ваши статьи очень приятно читать.
@@ -57,8 +57,8 @@
                                     </p>
                                     <h3 style="font-size: 18pt;">Достижения:</h3>
                                     <ul >
-                                        <li><span style="font-size: 16pt;">60% статей вошли в топ-3 выдачи "Яндекса";</span></li>
-                                        <li><span style="font-size: 16pt;">12 статей входят в топ-3 выдачи Google.</span></li>
+                                        <li><span style="font-size: 14pt;">15 статей вошли в топ-3 выдачи "Яндекса";</span></li>
+                                        <li><span style="font-size: 14pt;">12 статей входят в топ-3 выдачи Google.</span></li>
                                     </ul>
 
 
