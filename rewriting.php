@@ -192,8 +192,8 @@
 <p>Я предлагаю профессиональные услуги рерайтера, гарантируя уникальность, грамотность и читабельность текстов.
     При минимальных финансовых затратах и сроках вы получите тексты, которые будут соответствовать всем вашим требованиям.</p>
 </div></div><div class="clear"></div></div></div><div class="clear"></div></div></div>
-            <div class="clear"></div></div><script type="text/javascript" src="./rewriting_files/es5-shims.min.js" ></script>
-<script type="text/javascript" src="./rewriting_files/share.js" ></script>
+            <div class="clear"></div></div><script src="./rewriting_files/es5-shims.min.js" ></script>
+<script src="./rewriting_files/share.js" ></script>
 
 
 
