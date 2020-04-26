@@ -94,13 +94,12 @@
 </div>
 
 
-                                
+
 
 
                                     <?php
                                     require("foot.php");
                                     ?>
-
 
                                     <div class="clear"></div>
                                 </div></div>
