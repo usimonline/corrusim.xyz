@@ -94,7 +94,7 @@
 </div>
 
 
-
+                                </div></div></div>
 
 
                                     <?php
@@ -117,6 +117,6 @@
             <?php
             require("footer.php");
             ?>
-        </div></div></div>
+
 </body>
 </html>
