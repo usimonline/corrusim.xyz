@@ -8,6 +8,7 @@
     require("head.php");
     ?>
     <title>Наполнение сайта</title>
+    <meta name="description" content="Наполнение сайта от копирайтера Ольги The Усим. Вкусные тексты по интернет-маркетингу, SEO, SMM, IT, блокчейну и музыке." />
 </head>
 
 

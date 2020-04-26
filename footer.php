@@ -21,7 +21,7 @@
                         <div class="textwidget">
                             <p style="text-align: center;">
                                 <a href="https://by-by.info/">
-                                    <img class="wp-image-7898 aligncenter" src="./index_files/pregunta.png" alt="text" width="25" height="25">Мой сайт
+                                    <img class="wp-image-7898 aligncenter" src="./index_files/pregunta.png" alt="text" width="25" height="25">Блог
                                 </a>
                             </p>
                         </div>
