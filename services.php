@@ -26,7 +26,10 @@
 		<div class="content-wrapper container main">			
 	<div id="post-99" class="post-99 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="" src="./services_files/check-for-h.png" alt="check-for-h" width="19" height="19">&nbsp;Услуги и цены</h1>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row">
+                    <div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45">
+                                <div class="gdl-page-content">
+                                    <h1 style="text-align: center;"><img class="" src="./services_files/check-for-h.png" alt="check-for-h" width="19" height="19">&nbsp;Услуги и цены</h1>
 <table style="height: 23px;" width="700">
 <tbody>
 <tr style="height: 23px;">
@@ -84,7 +87,7 @@
 </table>
 
 <p>Если цена услуги указана с приставкой «от», значит, стоимость такой услуги устанавливается после ознакомления с информацией, необходимой для выполнения заказа.
-    Пишите, договоримся о скидке, если ваш заказ мне понравится!</p>
+    <strong>Пишите, договоримся о скидке, если ваш заказ мне понравится!</strong></p>
 <div class="clear"></div>
 <div class="gdl-divider gdl-border-x top">
 <div class="scroll-top"></div>

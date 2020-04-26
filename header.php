@@ -36,7 +36,7 @@
                 <option class="" value="about.php">Отзывы</option>
                 <option class="" value="services.php">Услуги и цены</option>
                 <option class="" value="portfolio.php">Портфолио</option>
-                <option class="" value="text-services.php">Заказать текст</option>
+                <option class="" value="text-services.php">Тексты на заказ</option>
                 <option class="" value="contacts.php">Контакты</option>
             </select>
         </div>
@@ -52,7 +52,7 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209"><a href="services.php">Услуги и цены</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="portfolio.php">Портфолио</a></li>
 
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="text-services.php">Заказать текст</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="text-services.php">Тексты на заказ</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="contacts.php">Контакты</a></li>
                 </ul>
             </div>
