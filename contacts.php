@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Контакты | <?php echo $site_name;?></title>
+    <title>Контакты</title>
+    <meta name="description" content="Контакты копирайтера Ольги The Усим. Напишу вкусные тексты для сайтов. Связь по скайпу, почте и телеграму." />
 </head>
 
 
@@ -27,23 +28,29 @@
 		<div class="content-wrapper container main">			
 	<div id="post-57" class="post-57 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><p>&nbsp;</p>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row">
+                    <div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><p>&nbsp;</p>
 <div class="shortcode2-5 ">
-<p style="text-align: center;"><strong><span style="font-size: 18pt;"><?php echo $site_phone;?></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;">Скайп: <?php echo $site_phone;?></span></strong></p>
 </div>
 <div class="shortcode2-5 ">
 <p style="text-align: center;"><strong><span style="font-size: 18pt;"><?php echo $site_email_1;?></span></strong></p>
 </div>
 <div class="shortcode1-5 last">
-
-<p style="text-align: center;"><a href="https://by-by.info/" data-rel="fancybox"><img class="aligncenter wp-image-7898" src="./contacts_files/pregunta.png" alt="pregunta" width="25" height="25">&nbsp;Блог</a></p>
+    <p style="text-align: center;"><strong><span style="font-size: 18pt; color: #005EA4;">Телеграм: @byby_info</span></strong></p>
 </div>
 <div class="clear"></div>
 
-
-                                    <p style="text-align: center;"><?php echo $site_director_2;?> - пишу лучшие новости в рунете почти на любые темы. Биткоин, политика, строительство. <br>Редактор, талантливый копирайтер и бесподобный организатор.</p>
+<h1>Контакты</h1>
+                                    <p style="text-align: center; font-size: 18pt;">Привет, я копирайтер-маркетолог Ольга The Усим! 😎</p>
+                                    <p style="text-align: center; font-size: 18pt;"><strong>Пишу вкусные тексты по маркетингу, SEO, SMM, IT, фитнесу,
+                                            музыке, бизнесу и криптовалютам</strong>.</p>
+                                    <p style="text-align: center; font-size: 18pt;"><span style="color: #005EA4;">Гарантирую уникальность текстов
+                                            в 100% по text.ru. Современный экспертный LSI- и SEO-копирайтинг</span>.</p>
                                     <p style="text-align: center;"><img src="index_files/myface.gif"></p>
                                     <p style="text-align: center;"><a href="https://freelance.ru/Usimov">https://freelance.ru/Usimov</a></p>
+                                    <p style="text-align: center;"><a href="https://www.weblancer.net/users/byby_info/">https://www.weblancer.net/users/byby_info/</a></p>
+                                    <p style="text-align: center;"><a href="https://www.fl.ru/users/usimov/">https://www.fl.ru/users/usimov/</a></p>
 
 <p style="text-align: center;"><strong><strong>ИП</strong></strong> <?php echo $site_director;?>&nbsp;</p>
 
@@ -72,7 +79,7 @@
     </div> <!-- post class -->
         </div> <!-- content wrapper -->
 
-
+<div>
     <?php
     require("footer.php");
     ?>

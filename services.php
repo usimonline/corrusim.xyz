@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Услуги | <?php echo $site_name;?></title>
+    <title>Услуги и цены</title>
+    <meta name="description" content="Услуги и цены копирайтера Ольги Усим. Пишу тексты по маркетингу, SEO, SMM, IT, криптовалютам и бизнесу." />
 </head>
 
 
