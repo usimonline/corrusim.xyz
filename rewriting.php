@@ -113,7 +113,7 @@
 <div class="row">
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Информационный</div>
+<div class="price-title" style="margin-top: 10px;">Информационный</div>
 <div class="price-tag"><?php echo $price_rew_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
@@ -121,7 +121,7 @@
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">SEO</div>
+<div class="price-title" style="margin-top: 10px;">SEO</div>
 <div class="price-tag"><?php echo $price_rew_2;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
@@ -129,7 +129,7 @@
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Технический</div>
+<div class="price-title" style="margin-top: 10px;">Технический</div>
 <div class="price-tag"><?php echo $price_rew_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
