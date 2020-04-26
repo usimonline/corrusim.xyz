@@ -30,7 +30,7 @@
 		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns">
                         <div class="row"><div class="twelve columns mb45"><div class="gdl-page-content">
                                     <h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./brief_files/brief-avep.png" alt="brief" width="40" height="40">Онлайн-бриф</h1>
-<p>Для того чтобы добиться максимального эффекта от созданных нами текстов, для вас предусмотрена процедура заполнения специального брифа,
+<p>Для того чтобы добиться максимального эффекта от созданных мной текстов, для вас предусмотрена процедура заполнения специального брифа,
     на которую уйдет не более 15 минут. Не забывайте, что чем больше деталей вы укажете, тем выше будет результативность ваших текстов. Ответы присылайте на почту.
     Заранее благодарю вас за уделенное время!<br>
 &nbsp;</p>
