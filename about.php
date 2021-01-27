@@ -9,8 +9,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Отзывы</title>
-    <meta name="description" content="Отзывы заказчиков копирайтера Ольги Усим. Пишу статьи для сайтов по интернет-маркетингу, SEO, SMM, IT, блокчейну и бизнесу." />
+    <title>Отзывы: каналы под ключ для Дзен и статьи для сайтов</title>
+    <meta name="description" content="Отзывы заказчиков копирайтера Ольги Усим. Пишу статьи для сайтов и развиваю каналы под ключ для Дзен." />
 </head>
 
 
@@ -37,7 +37,7 @@
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center; font-size: 22pt;">Отзывы</h1>
+                                    <h1 style="text-align: center; font-size: 22pt;">Отзывы: каналы под ключ для Дзен и статьи для сайтов</h1>
 
                                     <h2 style="text-align: center; font-size: 18pt;">Отзыв финансового управляющего руководителя компании "Банкрот Консалт" Константина Милантьева (2021):</h2>
                                     <blockquote style="font-size: 18pt;"><span style="color: #005EA4;">"Мы довольны тем, как вы развиваете наш канал в "Дзен" zen.yandex.ru/bankrotconsult.

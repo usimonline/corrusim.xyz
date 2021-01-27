@@ -7,9 +7,8 @@
 <?php
 require("head.php");
 ?>
-    <title>Главная</title>
-    <meta name="description" content="Я копирайтер-маркетолог Ольга The Усим, создаю вкусные тексты для сайтов
-    по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину." />
+    <title>Ольга The Усим: каналы под ключ для Дзен и ведение соцсетей</title>
+    <meta name="description" content="Я копирайтер-маркетолог Ольга The Усим, развиваю каналы под ключ в Дзен и привлекаю новых клиентов." />
 </head>
 
 
@@ -35,10 +34,13 @@ require("head.php");
                         <div class="row">
                             <div class="twelve columns mb45">
                                 <div class="gdl-page-content">
-                                    <h1 style="text-align: center; font-size: 24pt;">Главная</h1>
+                                    <h1 style="text-align: center; font-size: 24pt;">Каналы под ключ в Дзен: создаю площадки для привлечения новых клиентов</h1>
                                     <h2 style="text-align: center; font-size: 20pt;">Привет, я копирайтер Ольга The Усим: пишу вкусные тексты для сайтов</h2>
-<blockquote style="font-size: 18pt;"><span style="color: #005EA4;">Пишу статьи по маркетингу, SEO, SMM, IT, фитнесу, музыке, бизнесу и криптовалютам</span>. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
-    <strong>Опыт написания разных по формату материалов</strong>: статей, обзоров, пресс-релизов, новостей, рекламных текстов, постов для социальных сетей.</blockquote>
+<blockquote style="font-size: 18pt;"><span style="color: #005EA4;">Каналы под ключ в социальных сетях и "Дзен". Пишу статьи по банкротству, инженерным системам,
+        маркетингу, SEO, SMM, IT,
+        фитнесу, музыке, бизнесу и криптовалютам</span>. Уникальность 100% по text.ru + LSI- и SEO-копирайтинг.
+    <strong>Опыт написания разных по формату материалов</strong>: статей, обзоров, пресс-релизов, новостей,
+    рекламных текстов, постов для социальных сетей.</blockquote>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 14pt;"><a href="copywriting.php"><img class="wp-image-3600 aligncenter" src="./index_files/brightness.png" alt="copywriting" width="30" height="30">Копирайтинг</a></span></p>
 </div>
@@ -137,29 +139,19 @@ require("head.php");
 <p style="text-align: center;"><span style="font-size: 10pt;">6.&nbsp;Выполнение заказа.</span></p>
 </div>
 <div class="clear"></div>
-<p style="font-size: 18pt;"><strong>Главный редактор сайтов:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://vostok.fitness/" target="_blank">vostok.fitness</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://by-by.info/" target="_blank">by-by.info</a></p>
-                                    <p style="font-size: 18pt;"><strong>Выпускающий редактор сайтов, «Дзена» и групп во «ВКонтакте»:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://sportres.ru/blog/" target="_blank">sportres.ru/blog</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://easyvoice5.ru/" target="_blank">easyvoice5.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://vk.com/otzyvmarketing" target="_blank">vk.com/otzyvmarketing</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://vk.com/easyvoice" target="_blank">vk.com/easyvoice</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/id/5d00204b639f3200b1151c05" target="_blank">Дзен школы "Петь Легко"</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/otzyvmarketing" target="_blank">zen.yandex.ru/otzyvmarketing</a></p>
-                                    <p style="font-size: 18pt;"><strong>Автор-эксперт сайтов:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://otzyvmarketing.ru/author/37534/" target="_blank">otzyvmarketing.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://www.dirsalona.ru/" target="_blank">dirsalona.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://www.healthwaters.ru/blog/" target="_blank">healthwaters.ru/blog</a></p>
-                                    <p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
-                                    <p style="font-size: 14pt;">—  в информационном агентстве <a href="https://muksun.fm/" target="_blank">muksun.fm</a> по ХМАО-Югре;</p>
-                                    <p style="font-size: 14pt;">—  в новостных порталах <a href="https://coinmania.com/" target="_blank">coinmania.com</a> (криптовалюты);</p>
-                                    <p style="font-size: 14pt;">—  <a href="https://3commas.io/ru/blog/author/usimov" target="_blank">3commas.io</a> (криптовалюты);</p>
-                                    <p style="font-size: 14pt;">—  <a href="https://ruekt.ru/" target="_blank">ruekt.ru</a> (строительство).</p>
-                                    <p style="font-size: 18pt;"><strong>Занимаюсь просвещением граждан, отвечаю на вопросы на ресурсах:</strong></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://voprosmarketing.ru/" target="_blank">voprosmarketing.ru</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://yandex.ru/q/org/Otzyvmarketing/" target="_blank">"Яндекс.Кью"</a></p>
-                                    <p style="font-size: 14pt;">—  <a href="https://qna.habr.com/user/Usimov" target="_blank">qna.habr.com/user/Usimov</a></p>
+<p style="font-size: 18pt;"><strong>Примеры каналов под ключ, которыми я занималась или занимаюсь сейчас:</strong></p>
+        <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/bankrotconsult" target="_blank">Канал "Спиши долги"</a></p>
+       <p style="font-size: 14pt;">—  <a href="https://zen.yandex.ru/tochkatepla" target="_blank">Канал "Отопление просто"</a></p>
+
+<p style="font-size: 18pt;"><strong>Ранее работала выпускающим редактором:</strong></p>
+               <p style="font-size: 14pt;">—  в информационном агентстве muksun.fm по ХМАО-Югре;</p>
+         <p style="font-size: 14pt;">—  в новостных порталах coinmania.com (криптовалюты);</p>
+        <p style="font-size: 14pt;">—  ruekt.ru (строительство).</p>
+                                    <p style="font-size: 14pt;">—  otzyvmarketing.ru (маркетинг).</p>
+                                    <p style="font-size: 14pt;">—  easyvoice5.ru (музыка).</p>
+                                    <p style="font-size: 14pt;">—  sportres.ru (тренажеры).</p>
+                                    <p style="font-size: 14pt;">—  vostok.fitness (фитнес-индустрия).</p>
+               <p style="font-size: 14pt;">—  <a href="https://by-by.info/" target="_blank">by-by.info (история)</a></p>
 
 
 

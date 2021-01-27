@@ -39,6 +39,11 @@
 <th style="width: 250px; height: 23px; text-align: center;"><strong>Комментарии</strong></th>
 </tr>
 <tr style="height: 23px;">
+    <td style="width: 300px; height: 23px; text-align: center;"><a href="about.php">Канал под ключ для Дзена</a></td>
+    <td style="width: 150px; height: 23px; text-align: center;">20 тыс. руб.</td>
+    <td style="width: 250px; height: 23px; text-align: center;">за 2 недели (2-3 текста или видео в день)</td>
+</tr>
+<tr style="height: 23px;">
 <td style="width: 300px; height: 23px; text-align: center;"><a href="copywriting.php">Информационный копирайтинг</a></td>
 <td style="width: 150px; height: 23px; text-align: center;"><?php echo $price_copy_1;?> руб.</td>
 <td style="width: 250px; height: 23px; text-align: center;">за 1000 знаков&nbsp;(без пробелов)</td>
