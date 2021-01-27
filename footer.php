@@ -10,14 +10,14 @@
                 <div class="four columns gdl-footer-1 mb0"><div class="custom-sidebar widget_text" id="text-18">
                         <div class="textwidget">
                             <p style="text-align: center;">
-                                <a href="text-services.php">
-                                    <img class="wp-image-7898 aligncenter" src="./index_files/correction.png" alt="text" width="25" height="25">Заказать текст
+                                <a href="pay.php">
+                                    <img class="wp-image-7898 aligncenter" src="./index_files/correction.png" alt="text" width="25" height="25">Оплата
                                 </a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text" id="text-18">
+                <div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text">
                         <div class="textwidget">
                             <p style="text-align: center;">
                                 <a href="https://by-by.info/">
@@ -30,7 +30,7 @@
 
                 <div class="four columns gdl-footer-3 mb0"><div class="custom-sidebar widget_text" id="text-19">
                         <div class="textwidget"><p style="text-align: center;">
-                                <a href="brief.php"><img class="wp-image-7898 aligncenter" src="./index_files/brief-avep.png" alt="brief" width="25" height="25">Заполнить бриф</a>
+                                <a href="brief.php"><img class="wp-image-7898 aligncenter" src="./index_files/brief-avep.png" alt="brief" width="25" height="25">Онлайн-бриф</a>
                             </p></div>
                     </div></div>
                 <div class="clear"></div>
@@ -43,10 +43,9 @@
         <div class="container copyright-container">
             <div class="copyright-wrapper">
                 <div class="copyright-left">
-                    © 2010-2020 Копирайтер-маркетолог Ольга Усим | Статьи и новости для сайта и бизнеса
+                    © 2010-2020 Копирайтер-маркетолог Ольга The Усим | Вкусные и умные тексты для сайта и бизнеса
                 </div>
-                <div class="copyright-right">
-                    <a href="yuridicheskim-licam.php">Юридическим лицам</a>|<a href="vacancies.php">Вакансии</a>						</div>
+               
                 <div class="clear"></div>
             </div>
         </div>

@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Рерайтинг | <?php echo $site_name;?></title>
+    <title>Рерайтинг</title>
+    <meta name="description" content="Рерайтинг копирайтера-эксперта Ольги The Усим. Лучший рерайт по интернет-маркетингу, SEO, SMM, IT, блокчейну и музыке." />
 </head>
 
 
@@ -27,8 +28,11 @@
 		<div class="content-wrapper container main">			
 	<div id="post-459" class="post-459 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./rewriting_files/pencil.png" alt="pencil" width="33" height="33">РЕРАЙТИНГ</h1>
-<p>Вам необходим рерайт текста и вы ищете студию, где можно заказать услуги? Вы попали по адресу! Мы рады предложить вам услуги рерайтинга по доступной цене. Это может быть как простой рерайтинг текста информационной направленности, так и уникализация технических материалов.</p>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row">
+                    <div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;">
+                                        <img class="wp-image-7898 aligncenter" src="./rewriting_files/pencil.png" alt="pencil" width="33" height="33">Рерайтинг</h1>
+<p>Вам необходим рерайт текста и вы ищете копирайтера, у которого можно заказать услуги? Вы попали по адресу!
+    Я рада предложить вам услуги рерайтинга по доступной цене. Это может быть как простой рерайтинг текста информационной направленности, так и уникализация технических материалов.</p>
 <h2><img class="" src="./rewriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Рерайтинг текста: информация об услуге</h2>
 <p>Рерайтинг – это изложение текста другими словами с целью сделать его уникальным, сохранив при этом основной смысл.</p>
 <ul class="gdl-toggle-box">
@@ -51,13 +55,16 @@
 <li>
 <p>Где применяется рерайтинг текста?</p>
 <div>
-Существует два основных направления, в которых активно применяется глубокий рерайтинг. Во-первых, это, конечно же, СМИ, поскольку одна и та же новость тиражируется на всевозможных ресурсах. Чтобы не нарушать авторские права, копируя материал, необходимо выполнять рерайт новостей, сохраняя основную суть события.<p></p>
-<p>Другое направление – SEO-рерайтинг, который заказывают для сайта с целью его продвижения. В данном случае рерайт статей позволяет получить уникальные материалы с ключевыми запросами, которые будут вписаны красиво и естественно.
+Существует два основных направления, в которых активно применяется глубокий рерайтинг.
+    Во-первых, это, конечно же, СМИ, поскольку одна и та же новость тиражируется на всевозможных ресурсах.
+    Чтобы не нарушать авторские права, копируя материал, необходимо выполнять рерайт новостей, сохраняя основную суть события.<p></p>
+<p>Другое направление – SEO-рерайтинг, который заказывают для сайта с целью его продвижения.
+    В данном случае рерайт статей позволяет получить уникальные материалы с ключевыми запросами, которые будут вписаны красиво и естественно.
 </p>
 </div>
 </li>
 </ul>
-<p style="text-align: center;"><strong>Как заказать рерайт текста в нашей студии?</strong></p>
+<p style="text-align: center;"><strong>Как заказать у меня рерайт текста?</strong></p>
 <div class="shortcode1-3 ">
 <img class="wp-image-7848 aligncenter" src="./rewriting_files/выполнение-работы.png" alt="выполнение-работы" width="55" height="55">
 </div>
@@ -72,7 +79,7 @@
 <p style="text-align: center;"><span style="font-size: 10pt;">1. Подготовить ТЗ (тему и объем текста) либо исходник.</span></p>
 </div>
 <div class="shortcode1-3 ">
-<p style="text-align: center;"><span style="font-size: 10pt;">2. Связаться с нами по одному из контактов.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">2. Связаться со мной по одному из контактов.</span></p>
 </div>
 <div class="shortcode1-3 last">
 <p style="text-align: center;"><span style="font-size: 10pt;">3. Перечислить все свои пожелания и требования к тексту.</span></p>
@@ -89,7 +96,7 @@
 </div>
 <div class="clear"></div>
 <div class="shortcode1-3 ">
-<p style="text-align: center;"><span style="font-size: 10pt;">4. Ознакомиться со сметой, которую составят наши менеджеры.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">4. Ознакомиться со сметой, которую я составлю.</span></p>
 </div>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 10pt;">5. Согласовать сроки выполнения заказа.</span></p>
@@ -98,31 +105,32 @@
 <p style="text-align: center;"><span style="font-size: 10pt;">6. Оплатить услуги рерайта любым удобным способом.</span></p>
 </div>
 <div class="clear"></div>
-<p>По умолчанию, проверка уникальности осуществляется в программе Advego Plagiatus, если другая не была указана клиентом во время оформления заказа. При необходимости проверки уникальности в других системах цена рерайтинга может увеличиться.</p>
+<p>По умолчанию, проверка уникальности осуществляется в программе text.ru, если другая не была указана клиентом во время оформления заказа.
+    При необходимости проверки уникальности в других системах цена рерайтинга может увеличиться.</p>
 <h3><img class="" src="./rewriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Рерайт текста: стоимость и сроки выполнения</h3>
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Информационный</div>
-<div class="price-tag"><?php echo $price_rew_1;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Информационный</div>
+<div class="price-tag"><?php echo $price_rew_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">SEO</div>
-<div class="price-tag"><?php echo $price_rew_2;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">SEO</div>
+<div class="price-tag"><?php echo $price_rew_2;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Технический</div>
-<div class="price-tag"><?php echo $price_rew_3;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Технический</div>
+<div class="price-tag"><?php echo $price_rew_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -130,7 +138,7 @@
 <div class="clear"></div>
 </div>
 </div>
-<p>В прайс-листе указана стоимость рерайта за 1000 символов без пробелов, которая зависит от его вида:</p>
+<p>В прайс-листе указана стоимость рерайта за 1000 знаков без пробелов (ЗБП), которая зависит от его вида:</p>
 <div class="shortcode1-3 ">
 <img class="wp-image-7832 aligncenter" src="./rewriting_files/news.png" alt="news" width="55" height="55">
 </div>
@@ -154,7 +162,8 @@
 <em>(тексты с терминологией)</em></span></p>
 </div>
 <div class="clear"></div>
-<p>Сроки выполнения заказа зависят от объема работы и согласовываются с клиентом индивидуально, учитывая его пожелания. При необходимости наши специалисты готовы выполнить рерайтинг статей даже в самые сжатые сроки – в течение 24 часов и менее.</p>
+<p>Сроки выполнения заказа зависят от объема работы и согласовываются с клиентом индивидуально, учитывая его пожелания.
+    При необходимости я готова выполнить рерайтинг статей даже в самые сжатые сроки – в течение 24 часов и менее.</p>
 <h4><img class="" src="./rewriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Рерайт текста: дополнительные услуги</h4>
 <table style="height: 96px;" width="700">
 <tbody>
@@ -180,9 +189,11 @@
 </tr>
 </tbody>
 </table>
-<p>Мы предлагаем профессиональные услуги рерайтера, гарантируя уникальность, грамотность и читабельность текстов. При минимальных финансовых затратах и сроках вы получите тексты, которые будут соответствовать всем вашим требованиям.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./rewriting_files/es5-shims.min.js" charset="utf-8"></script>
-<script type="text/javascript" src="./rewriting_files/share.js" charset="utf-8"></script>
+<p>Я предлагаю профессиональные услуги рерайтера, гарантируя уникальность, грамотность и читабельность текстов.
+    При минимальных финансовых затратах и сроках вы получите тексты, которые будут соответствовать всем вашим требованиям.</p>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div>
+            <div class="clear"></div></div><script src="./rewriting_files/es5-shims.min.js" ></script>
+<script src="./rewriting_files/share.js" ></script>
 
 
 
@@ -192,17 +203,11 @@
         ?>
 
         <div class="clear"></div>
-    </div></div>
+
 
             <div class="clear"></div>
-        </div>
 
-
-        </div> <!-- page wrapper -->
-        </div> <!-- post class -->
-        </div> <!-- content wrapper -->
-
-
+<div><div>
         <?php
         require("footer.php");
         ?>

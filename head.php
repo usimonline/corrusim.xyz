@@ -12,13 +12,13 @@ $site_yandex = "243243244343";
 $site_wmr = "R43242343";
 $adres = "Россия, Смоленск, проезд Маршала Конева, 28Е, офис 205";
 $adres_url_yandex = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZgweA0N\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
-$price_copy_1 = 200;
+$price_copy_1 = 300;
 $price_copy_2 = $price_copy_1*1.1;
 $price_copy_3 = $price_copy_1*1.2;
 $price_rew_1 =  200;
 $price_rew_2 = $price_rew_1*1.1;
 $price_rew_3 = $price_rew_1*1.2;
-$price_cor_1 = 30;
+$price_cor_1 = 50;
 $price_cor_2 = $price_cor_1*1.3;
 $price_cor_3 = $price_cor_1*1.6;
 $find_key = 60;
@@ -43,14 +43,14 @@ $find_key = 60;
 
 
 
-<script type="text/javascript" async="" src="./index_files/global_est.js"></script>
+<script async="" src="./index_files/global_est.js"></script>
 <script async="" src="./index_files/analytics.js"></script>
-<script type="text/javascript" async="" src="./index_files/watch.js"></script>
+<script async="" src="./index_files/watch.js"></script>
 
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
-<script src="./index_files/wp-emoji-release.min.js." type="text/javascript"></script>
-<style type="text/css">
+<script src="./index_files/wp-emoji-release.min.js." ></script>
+<style>
     img.wp-smiley,
     img.emoji {
         display: inline !important;
@@ -73,9 +73,9 @@ $find_key = 60;
 <link rel="stylesheet" id="superfish-css" href="./index_files/superfish.css" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox-css" href="./index_files/fancybox.css" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox-thumbs-css" href="./index_files/jquery.fancybox-thumbs.css" type="text/css" media="all">
-<script type="text/javascript" src="./index_files/jquery.js"></script>
-<script type="text/javascript" src="./index_files/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="./index_files/jquery.fitvids.js"></script>
+<script src="./index_files/jquery.js"></script>
+<script src="./index_files/jquery-migrate.min.js"></script>
+<script src="./index_files/jquery.fitvids.js"></script>
 
 
 <meta name="generator" content="WordPress 4.6.1">
@@ -102,7 +102,7 @@ $find_key = 60;
 <![endif]-->
 
 <link id="uiform-css-global" rel="stylesheet" type="text/css" href="./index_files/global.css" media="all">
-<script type="text/javascript" src="./index_files/all-settings-default.js" charset="utf-8"></script>
+<script src="./index_files/all-settings-default.js"></script>
 <link type="text/css" href="./index_files/chat-default.css" rel="stylesheet">
 
 

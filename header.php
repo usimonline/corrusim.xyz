@@ -2,7 +2,7 @@
 
     <!-- Get Logo -->
     <div class="logo-wrapper">
-        <h1><a href="index.php"><img src="./index_files/LOGO.png" alt=""></a></h1>
+        <a href="index.php"><img src="./index_files/LOGO.png" alt=""></a>
     </div>
     <div class="logo-right-text">
         <div class="logo-right-text-content">
@@ -19,10 +19,10 @@
             </div>
 
             <div style="display: block;">
-                <a data-rel="fancybox" href="https://freelance.ru/Usimov" style="color: #121212; display: inline-block; margin-top: 5px;  text-align: center; white-space: nowrap;">
-                    <img style="vertical-align: middle; height: 16px;" src="./index_files/calc-32x32.png" alt="calculator-body">
-                    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px; font-weight: bold;">Фрилансер Ольга Усим</span>
-                </a>
+                <span data-rel="fancybox" style="color: #121212; display: inline-block; margin-top: 5px;  text-align: center; white-space: nowrap;">
+                    <img style="vertical-align: middle; height: 16px;" src="./index_files/calc-32x32.jpg" alt="calculator-body">
+                    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px; font-weight: bold;">@byby_info</span>
+                </span>
             </div>
         </div>
     </div>
@@ -36,8 +36,7 @@
                 <option class="" value="about.php">Отзывы</option>
                 <option class="" value="services.php">Услуги и цены</option>
                 <option class="" value="portfolio.php">Портфолио</option>
-
-                <option class="" value="pay.php">Оплата</option>
+                <option class="" value="text-services.php">Тексты на заказ</option>
                 <option class="" value="contacts.php">Контакты</option>
             </select>
         </div>
@@ -53,7 +52,7 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9209"><a href="services.php">Услуги и цены</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3297"><a href="portfolio.php">Портфолио</a></li>
 
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="pay.php">Оплата</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="text-services.php">Тексты на заказ</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="contacts.php">Контакты</a></li>
                 </ul>
             </div>

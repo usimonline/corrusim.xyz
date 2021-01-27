@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Портфолио | <?php echo $site_name;?></title>
+    <title>Портфолио</title>
+    <meta name="description" content="Портфолио копирайтера-эксперта Ольги Усим. Создаю тексты по маркетингу, SEO, программированию, музыке и бизнесу." />
 </head>
 
 
@@ -26,7 +27,8 @@
 		<div class="content-wrapper container main">			
 	<div id="post-102" class="post-102 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h2 style="text-align: center;"><strong>Примеры копирайтинга по тематикам</strong></h2>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns">
+                        <div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><strong>Портфолио</strong></h1>
 <div class="shortcode1-4 ">
 <p style="text-align: center;"><span style="font-size: 12pt;"><strong>А</strong>втомобильная</span></p>
 </div>
@@ -311,7 +313,7 @@
                 </div> <!-- post class -->
             </div> <!-- content wrapper -->
 
-
+<div>
             <?php
             require("footer.php");
             ?>

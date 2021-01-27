@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Копирайтинг | <?php echo $site_name;?></title>
+    <title>Копирайтинг</title>
+    <meta name="description" content="Копирайтинг специалиста Ольги The Усим. Экспертные тексты по интернет-маркетингу, SEO, SMM, IT, блокчейну и биткоину." />
 </head>
 
 
@@ -27,15 +28,19 @@
 		<div class="content-wrapper container main">			
 	<div id="post-371" class="post-371 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./copywriting_files/brightness.png" alt="копирайтинг" width="33" height="33">КОПИРАЙТИНГ</h1>
-<p>Вам нужны услуги копирайтера и вы хотите знать, что необходимо для оформления заказа? Вы в нужном месте! Команда <?php echo $site_name;?> рада предложить профессиональные услуги копирайтинга для вашего проекта. На этой странице указана детальная информация о том, как заказать копирайтинг, а также даны ответы на часто возникающие вопросы.</p>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns">
+                        <div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;">
+                                        <img class="wp-image-7898 aligncenter" src="./copywriting_files/brightness.png" alt="копирайтинг" width="33" height="33">Копирайтинг</h1>
+<p>Вам нужны услуги копирайтера и вы хотите знать, что необходимо для оформления заказа? Вы в нужном месте!
+    Я рада предложить профессиональные услуги копирайтинга для вашего проекта.
+    На этой странице указана детальная информация о том, как заказать копирайтинг, а также даны ответы на часто возникающие вопросы.</p>
 <h2><img class="" src="./copywriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Копирайтинг: информация об услуге</h2>
 <p>Копирайтинг – это создание авторских оригинальных текстов на заданную тематику.</p>
 <ul class="gdl-toggle-box">
 <li>
 <p>Какой вид копирайтинга заказать?</p>
 <div>
-Мы предлагаем копирайтинг трех видов:<p></p>
+Я предлагаю копирайтинг трех видов:<p></p>
 <ul>
 <li>информационный поможет донести до посетителей сайта определенные сведения;</li>
 <li>продающий призван мотивировать пользователей к совершению действия (оформление заказа, покупка товара и т.п.);</li>
@@ -62,11 +67,12 @@
 <li>
 <p>Обязательно ли заполнять бриф?</p>
 <div>
-Нет, вовсе не обязательно. Мы выполним заказ и без него, однако именно информация из брифа позволит учесть все нюансы вашего бизнеса, что поможет тексту более эффективно взаимодействовать с целевой аудиторией.
+Нет, вовсе не обязательно. Я выполню заказ и без него, однако именно информация из брифа позволит учесть все нюансы вашего бизнеса,
+    что поможет тексту более эффективно взаимодействовать с целевой аудиторией.
 </div>
 </li>
 </ul>
-<p style="text-align: center;"><strong>Как&nbsp;заказать услуги копирайтинга в нашей студии?</strong></p>
+<p style="text-align: center;"><strong>Как&nbsp;заказать у меня услуги копирайтинга?</strong></p>
 <div class="shortcode1-3 ">
 <img class="wp-image-7774 aligncenter" src="./copywriting_files/выполнение-работы.png" alt="выполнение работы" width="55" height="55">
 </div>
@@ -81,10 +87,10 @@
 <p style="text-align: center;"><span style="font-size: 10pt;">1. Составьте техническое задание (ТЗ) на копирайтинг.</span></p>
 </div>
 <div class="shortcode1-3 ">
-<p style="text-align: center;"><span style="font-size: 10pt;">2. Свяжитесь с нами по одному из контактов.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">2. Свяжитесь со мной по одному из контактов.</span></p>
 </div>
 <div class="shortcode1-3 last">
-<p style="text-align: center;"><span style="font-size: 10pt;">3. Ознакомьтесь со сметой, которую составят наши менеджеры.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">3. Ознакомьтесь со сметой, которую я составлю.</span></p>
 </div>
 <div class="clear"></div>
 <div class="shortcode1-3 ">
@@ -98,7 +104,7 @@
 </div>
 <div class="clear"></div>
 <div class="shortcode1-3 ">
-<p style="text-align: center;"><span style="font-size: 10pt;">4. Заполните онлайн-бриф на нашем сайте.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">4. Заполните онлайн-бриф на моем сайте.</span></p>
 </div>
 <div class="shortcode1-3 ">
 <p style="text-align: center;"><span style="font-size: 10pt;">5. Согласуйте сроки выполнения заказа.</span></p>
@@ -107,31 +113,34 @@
 <p style="text-align: center;"><span style="font-size: 10pt;">6. Оплатите заказ любым доступным способом.</span></p>
 </div>
 <div class="clear"></div>
-<p>Главная задача копирайтинга – привлечение потенциальных клиентов, формирование в их подсознании благожелательного мнения о предлагаемой продукции и стимуляция покупательной активности. Опытный копирайтер не только мастерски разбирается в тонкостях письменного изложения сути вопроса, но и умеет создать новый, совершенно оригинальный текст, соответствующий вашим идеям, пожеланиям, планам и настроению.</p>
+<p>Главная задача копирайтинга – привлечение потенциальных клиентов, формирование в их подсознании благожелательного мнения
+    о предлагаемой продукции и стимуляция покупательной активности.
+    Опытный копирайтер не только мастерски разбирается в тонкостях письменного изложения сути вопроса, но и умеет создать новый,
+    совершенно оригинальный текст, соответствующий вашим идеям, пожеланиям, планам и настроению.</p>
 <h3><img class="" src="./copywriting_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Копирайтинг: цена и сроки выполнения</h3>
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Информационный</div>
-<div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Информационный</div>
+<div class="price-tag"><?php echo $price_copy_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Продающий</div>
-<div class="price-tag"><?php echo $price_copy_2;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Продающий</div>
+<div class="price-tag"><?php echo $price_copy_2;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Креативный</div>
-<div class="price-tag"><?php echo $price_copy_3;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Креативный</div>
+<div class="price-tag"><?php echo $price_copy_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -139,7 +148,9 @@
 <div class="clear"></div>
 </div>
 </div>
-<p>Наша&nbsp;стоимость копирайтинга варьируется от <?php echo $price_copy_1;?> до <?php echo $price_copy_3;?> рублей за 1000 знаков. Стоит заметить, что в некоторых случаях (сложная тематика, особые требования, срочный заказ) цена копирайтинга может увеличиться. Сроки выполнения заказа согласовываются с клиентом индивидуально, учитывая его пожелания.</p>
+<p>Наша&nbsp;стоимость копирайтинга варьируется от <?php echo $price_copy_1;?> до <?php echo $price_copy_3;?> рублей за 1000 знаков без пробелов (ЗБП).
+    Стоит заметить, что в некоторых случаях (сложная тематика, особые требования, срочный заказ) цена копирайтинга может увеличиться.
+    Сроки выполнения заказа согласовываются с клиентом индивидуально, учитывая его пожелания.</p>
 <p style="text-align: center;"><strong>Что включено в стоимость копирайтинга?</strong></p>
 <div class="shortcode1-3 ">
 <img class=" wp-image-10128 aligncenter" src="./copywriting_files/graphs.png" alt="graphs" width="55" height="55">
@@ -186,9 +197,10 @@
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;">Возникли вопросы? Получите бесплатную консультацию по телефону <?php echo $site_phone;?> или по электронной почте <?php echo $site_email_1;?>.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./copywriting_files/es5-shims.min.js" charset="utf-8"></script>
-<script type="text/javascript" src="./copywriting_files/share.js" charset="utf-8"></script>
+<p style="text-align: center;">Возникли вопросы? Получите бесплатную консультацию по электронной почте <?php echo $site_email_1;?>.</p>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div>
+        </div><script src="./copywriting_files/es5-shims.min.js"></script>
+<script src="./copywriting_files/share.js"></script>
 
 
 
@@ -197,16 +209,13 @@
         ?>
 
         <div class="clear"></div>
-    </div></div>
+
 
             <div class="clear"></div>
-        </div>
 
 
-</div> <!-- page wrapper -->
-</div> <!-- post class -->
-</div> <!-- content wrapper -->
 
+<div><div>
 
 <?php
 require("footer.php");

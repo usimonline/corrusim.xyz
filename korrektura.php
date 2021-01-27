@@ -7,7 +7,8 @@
     <?php
     require("head.php");
     ?>
-    <title>Корректура | <?php echo $site_name;?></title>
+    <title>Корректура</title>
+    <meta name="description" content="Корректура профессионального редактора Ольги The Усим. Тексты по интернет-маркетингу, SEO, SMM, IT, блокчейну и музыке." />
 </head>
 
 
@@ -27,30 +28,32 @@
 		<div class="content-wrapper container main">			
 	<div id="post-483" class="post-483 page type-page status-publish hentry">
 	<div class="page-wrapper single-page ">
-		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;"><img class="wp-image-7898 aligncenter" src="./korrektura_files/magnifyingglass.png" alt="magnifyingglass" width="33" height="33">КОРРЕКТУРА</h1>
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns">
+                        <div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h1 style="text-align: center;">
+                                        <img class="wp-image-7898 aligncenter" src="./korrektura_files/magnifyingglass.png" alt="magnifyingglass" width="33" height="33">Корректура</h1>
 <p>&nbsp;</p>
 <div class="price-table-wrapper">
 <div class="row">
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Корректура в Word</div>
-<div class="price-tag"><?php echo $price_cor_1;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Корректура в Word</div>
+<div class="price-tag"><?php echo $price_cor_1;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Корректура в PDF</div>
-<div class="price-tag"><?php echo $price_cor_2;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Корректура в PDF</div>
+<div class="price-tag"><?php echo $price_cor_2;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
 </div>
 <div class="four columns price-item-wrapper wrapper mb0 best-price best-active">
 <div class="price-item" style="height: 122px;">
-<div class="price-title">Редактура текста</div>
-<div class="price-tag"><?php echo $price_cor_3;?> руб.<span class="price-suffix">/1000 знаков</span></div>
+<div class="price-title" style="margin-top: 10px;">Редактура текста</div>
+<div class="price-tag"><?php echo $price_cor_3;?> руб.<span class="price-suffix">/1000 збп</span></div>
 <div class="price-content"></div>
 <div class="clear"></div>
 </div>
@@ -58,7 +61,8 @@
 <div class="clear"></div>
 </div>
 </div>
-<p>Каким бы прекрасным ни получился текст, грамматические, пунктуационные ошибки или опечатки, наверняка, испортят впечатление от него. Но не нужно огорчаться ― это положение может исправить корректура текста.</p>
+<p>Каким бы прекрасным ни получился текст, грамматические, пунктуационные ошибки или опечатки наверняка испортят впечатление от него.
+    Но не нужно огорчаться ― это положение может исправить корректура текста.</p>
 <p style="text-align: center;"><strong>Что же включает в себя корректура?</strong></p>
 <table style="border-collapse: collapse; height: 50px; border: 0px !important;" width="700" cellspacing="0" cellpadding="0">
 <tbody>
@@ -76,7 +80,9 @@
 </table>
 <p>Замечено, что орфографические ошибки бросаются в глаза читателю и очень сильно раздражают его. Поэтому, если вы дорожите своей репутацией, закажите услуги корректора текста.</p>
 <h2><img class="" src="./korrektura_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Корректура текста: информация об услуге</h2>
-<p>Вы начинающий или известный писатель, а может быть, вы офисный сотрудник, который часто работает с документами? Вам нужна корректура книги, дипломной работы или научного труда, чтобы свежим взглядом, со стороны увидеть то, что осталось без внимания в процессе работы? Воспользуйтесь услугами корректора текста: от его взгляда не скроется ни одна ошибка.</p>
+<p>Вы начинающий или известный писатель, а может быть, вы офисный сотрудник, который часто работает с документами?
+    Вам нужна корректура книги, дипломной работы или научного труда, чтобы свежим взглядом со стороны увидеть то, что осталось без внимания в процессе работы?
+    Воспользуйтесь моими услугами корректора текста: от моего взгляда не скроется ни одна ошибка.</p>
 <p style="text-align: center;"><strong>Как оформить заказ на корректуру текста?</strong></p>
 <table style="border-collapse: collapse; height: 287px; border: 0px !important;" width="700" cellspacing="0" cellpadding="0">
 <tbody>
@@ -104,16 +110,20 @@
 </table>
 <p style="text-align: center;"><strong>Что необходимо знать о корректуре?</strong></p>
 <ul style="list-style-type: square;">
-<li>Корректура в Word выполняется в режиме «Исправления», что позволяет отображать внесенные правки, а также быстро и удобно их скрыть, получив таким образом «чистый» текст.&nbsp;При необходимости корректор может создавать примечания, комментируя или уточняя некоторые моменты.</li>
+<li>Корректура в Word выполняется в режиме «Исправления», что позволяет отображать внесенные правки, а также быстро и удобно их скрыть,
+    получив таким образом «чистый» текст.&nbsp;При необходимости корректор может создавать примечания, комментируя или уточняя некоторые моменты.</li>
 <li>Корректура в PDF выполняется в виде комментариев с выделением соответствующих мест текста.</li>
-<li>Для заказа корректуры материалов&nbsp;сайта нужно прислать нам список страниц, текст на которых нужно проверить, либо карту сайта, если проверить нужно все страницы. Результат предоставляется в файле Word.</li>
+<li>Для заказа корректуры материалов&nbsp;сайта нужно прислать мне список страниц, текст на которых нужно проверить, либо карту сайта,
+    если проверить нужно все страницы. Результат предоставляется в файле Word.</li>
 </ul>
-<p>Вычитка&nbsp;текста – это важный этап на пути к его совершенству. Этим и занимаются наши корректоры. Мы заметим то, что остается не замеченным другими.</p>
+<p>Вычитка&nbsp;текста – это важный этап на пути к его совершенству. Этим я и занимаюсь. Я замечу то, что остается не замеченным другими.</p>
 <h3><img class="" src="./korrektura_files/check-for-h.png" alt="check-for-h" width="18" height="18">&nbsp;Корректура текста: стоимость и сроки выполнения</h3>
-<p>Узнать стоимость корректуры текста можно в вышерасположенном прайс-листе. Стоит заметить, что&nbsp;цена корректуры текста определяется по числу знаков с пробелами.&nbsp;Сроки выполнения заказа зависят от объема материала&nbsp;и согласовываются с клиентом индивидуально, учитывая его пожелания.</p>
-<p>Профессиональный корректор студии <?php echo $site_name;?> создаст законченный образ любого текста. При особых требованиях или необходимости срочного выполнения заказа стоимость услуг корректора текста рассматривается в индивидуальном порядке. Оставьте онлайн-заявку или позвоните нам по указанным телефонам: мы на связи в любое время.</p>
-</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div><script type="text/javascript" src="./korrektura_files/es5-shims.min.js" charset="utf-8"></script>
-<script type="text/javascript" src="./korrektura_files/share.js" charset="utf-8"></script>
+<p>Узнать стоимость корректуры текста можно в вышерасположенном прайс-листе. Стоит заметить, что&nbsp;цена корректуры текста определяется по числу знаков с пробелами.&nbsp;Сроки
+    выполнения заказа зависят от объема материала&nbsp;и согласовываются с клиентом индивидуально, учитывая его пожелания.</p>
+<p>Я создам законченный образ любого текста. При особых требованиях или необходимости срочного выполнения заказа стоимость услуг корректора текста рассматривается в индивидуальном порядке.</p>
+</div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div>
+        </div><script src="./korrektura_files/es5-shims.min.js" ></script>
+<script src="./korrektura_files/share.js" ></script>
 
 
         <?php
@@ -121,17 +131,12 @@
         ?>
 
         <div class="clear"></div>
-    </div></div>
+
 
             <div class="clear"></div>
-        </div>
 
 
-</div> <!-- page wrapper -->
-</div> <!-- post class -->
-</div> <!-- content wrapper -->
-
-
+<div><div>
 <?php
 require("footer.php");
 ?>
